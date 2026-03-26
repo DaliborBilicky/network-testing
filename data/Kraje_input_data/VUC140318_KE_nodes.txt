@@ -1,0 +1,594 @@
+593
+1 3 Bohúňovo 
+2 5 Čoltovo 
+3 7 Gemerská Panica 
+4 1 Stratená 
+5 3 Dedinky 
+6 6 Mlynky 
+7 24 Plešivec 
+8 57 Dobšiná 
+9 5 Vyšná Slaná 
+10 8 Rejdová 
+11 9 Vlachovo 
+12 4 Gočovo 
+13 12 Nižná Slaná 
+14 5 Kobeliarovo 
+15 1 Brdárka 
+16 1 Hanková 
+17 2 Markuška 
+18 1 Slavoška 
+19 3 Koceľovce 
+20 6 Roštár 
+21 1 Petrovo 
+22 5 Ochtiná 
+23 3 Rochovce 
+24 20 Slavošovce 
+25 7 Čierna Lehota 
+26 16 Štítnik 
+27 2 Rozložná 
+28 3 Gočaltovo 
+29 7 Kunova Teplica 
+30 3 Pašková 
+31 4 Honce 
+32 5 Henckovce 
+33 7 Betlanovce 
+34 24 Hrabušice 
+35 22 Letanovce 
+36 18 Spišské Tomášovce 
+37 87 Smižany 
+38 379 Spišská Nová Ves 
+39 18 Harichovce 
+40 10 Odorín 
+41 40 Markušovce 
+42 5 Danišovce 
+43 3 Lieskovany 
+44 12 Teplička 
+45 5 Matejovce 
+46 8 Chrasť nad Hornádom 
+47 40 Rudňany 
+48 10 Poráč 
+49 11 Jamník 
+50 6 Vítkovce 
+51 13 Spišský Hrušov 
+52 2 Hincovce 
+53 32 Bystrany 
+54 10 Olcnava 
+55 36 Spišské Vlachy 
+56 21 Žehra 
+57 2 Oľšavka 
+58 3 Slatvina 
+59 4 Vojkovce 
+60 25 Richnava 
+61 3 Hrišovce 
+62 16 Kluknava 
+63 88 Krompachy 
+64 4 Kaľava 
+65 19 Slovinky 
+66 8 Žakarovce 
+67 19 Jaklovce 
+68 62 Gelnica 
+69 34 Prakovce 
+70 15 Helcmanovce 
+71 17 Mníšek nad Hnilcom 
+72 21 Švedlár 
+73 2 Stará Voda 
+74 31 Nálepkovo 
+75 5 Hnilčík 
+76 6 Závadka 
+77 4 Hnilec 
+78 1 Henclová 
+79 20 Gemerská Poloma 
+80 11 Smolník 
+81 5 Smolnícka Huta 
+82 1 Úhorná 
+83 9 Betliar 
+84 26 Krásnohorské Podhradie 
+85 197 Rožňava 
+86 6 Čučma 
+87 6 Pača 
+88 7 Jovice 
+89 7 Krásnohorská Dlhá Lúka 
+90 7 Drnava 
+91 1 Kováčová 
+92 2 Lúčka 
+93 5 Bôrka 
+94 8 Jablonov nad Turňou 
+95 3 Hrušov 
+96 2 Silická Jablonica 
+97 6 Silica 
+98 5 Slavec 
+99 13 Brzotín 
+100 5 Kružná 
+101 7 Rudná 
+102 6 Rakovnica 
+103 6 Rožňavské Bystré 
+104 2 Silická Brezová 
+105 35 Turňa nad Bodvou 
+106 4 Dvorníky - Včeláre 
+107 2 Zádiel 
+108 3 Háj 
+109 2 Hačava 
+110 1 Chorváty 
+111 2 Hosťovce 
+112 3 Turnianska Nová Ves 
+113 4 Žarnov 
+114 4 Peder 
+115 6 Janík 
+116 22 Drienovec 
+117 7 Štós 
+118 43 Medzev 
+119 34 Jasov 
+120 28 Poproč 
+121 7 Kojšov 
+122 11 Hrhov 
+123 10 Iliašovce 
+124 5 Vyšný Medzev 
+125 20 Margecany 
+126 2 Opiná 
+127 1 Bunetice 
+128 30 Kecerovce 
+129 10 Vtáčkovce 
+130 8 Ploské 
+131 4 Nová Polhora 
+132 11 Kráľovce 
+133 6 Vajkovce 
+134 5 Chrastné 
+135 10 Budimír 
+136 6 Beniakovce 
+137 4 Čižatice 
+138 23 Rozhanovce 
+139 3 Hrašovík 
+140 12 Košické Oľšany 
+141 4 Ďurďošík 
+142 3 Trsťany 
+143 5 Bačkovík 
+144 6 Čakanovce 
+145 14 Bidovce 
+146 8 Boliarov 
+147 7 Rankovce 
+148 3 Herľany 
+149 1 Kecerovský Lipovec 
+150 1 Mudrovce 
+151 3 Vyšná Kamenica 
+152 5 Nižná Kamenica 
+153 8 Svinica 
+154 274 Košice - Dargovských hrdinov 
+155 26 Košice - Košická Nová Ves 
+156 206 Košice - Staré Mesto 
+157 235 Košice - Juh 
+158 18 Sady nad Torysou 
+159 10 Košická Polianka 
+160 45 Košice - Krásna 
+161 5 Nižná Hutka 
+162 4 Vyšná Hutka 
+163 3 Vyšný Čaj 
+164 10 Bohdanovce 
+165 6 Blažice 
+166 14 Ruskov 
+167 6 Olšovany 
+168 17 Ďurkov 
+169 3 Rákoš 
+170 14 Slanec 
+171 2 Nový Salaš 
+172 2 Slanská Huta 
+173 10 Vyšná Myšľa 
+174 16 Nižná Myšľa 
+175 14 Ždaňa 
+176 55 Čaňa 
+177 16 Geča 
+178 42 Valaliky 
+179 11 Kokšov - Bakša 
+180 6 Gyňov 
+181 15 Trstené pri Hornáde 
+182 11 Skároš 
+183 21 Seňa 
+184 4 Belža 
+185 11 Kechnec 
+186 4 Milhosť 
+187 14 Perín - Chym 
+188 33 Veľká Ida 
+189 407 Košice - Západ 
+190 2 Bočiar 
+191 13 Sokoľany 
+192 14 Haniska 
+193 57 Košice - Šaca 
+194 4 Nižný Lánec 
+195 12 Buzica 
+196 4 Komárovce 
+197 8 Cestice 
+198 21 Čečejovce 
+199 14 Mokrance 
+200 111 Moldava nad Bodvou 
+201 3 Rešica 
+202 6 Paňovce 
+203 4 Debraď 
+204 6 Rudník 
+205 7 Nováčany 
+206 3 Hodkovce 
+207 8 Šemša 
+208 14 Malá Ida 
+209 15 Košice - Pereš 
+210 8 Bukovec 
+211 5 Baška 
+212 61 Košice - Luník IX 
+213 20 Košice - Myslava 
+214 5 Hýľov 
+215 7 Nižný Klátov 
+216 4 Vyšný Klátov 
+217 4 Zlatá Idka 
+218 9 Veľký Folkmar 
+219 1 Opátka 
+220 10 Košická Belá 
+221 37 Družstevná pri Hornáde 
+222 14 Kysak 
+223 4 Obišovce 
+224 2 Trebejov 
+225 10 Sokoľ 
+226 3 Veľká Lodina 
+227 2 Malá Lodina 
+228 34 Košice - Barca 
+229 203 Košice - Sever 
+230 2 Slančík 
+231 3 Košický Klečenov 
+232 6 Dargov 
+233 6 Bačkov 
+234 2 Višňov 
+235 3 Kravany 
+236 2 Stankovce 
+237 19 Parchovany 
+238 6 Dvorianky 
+239 5 Hriadky 
+240 82 Sečovce 
+241 22 Vojčice 
+242 3 Zbehňov 
+243 5 Malé Ozorovce 
+244 2 Trnávka 
+245 7 Veľké Ozorovce 
+246 16 Zemplínska Teplica 
+247 5 Slanské Nové Mesto 
+248 7 Kalša 
+249 8 Slivník 
+250 17 Kuzmice 
+251 7 Brezina 
+252 9 Kazimír 
+253 2 Byšta 
+254 19 Michaľany 
+255 11 Lastovce 
+256 9 Veľaty 
+257 9 Zemplínska Nová Ves 
+258 15 Nižný Žipov 
+259 5 Čeľovce 
+260 5 Egreš 
+261 4 Stanča 
+262 245 Trebišov 
+263 8 Plechotice 
+264 6 Nový Ruskov 
+265 3 Luhyňa 
+266 9 Hrčeľ 
+267 4 Kysta 
+268 10 Novosad 
+269 3 Kašov 
+270 7 Zemplínske Jastrabie 
+271 12 Cejkov 
+272 6 Brehov 
+273 6 Sirník 
+274 16 Hraň 
+275 5 Zemplínsky Branč 
+276 2 Kožuchov 
+277 12 Zemplínske Hradište 
+278 15 Malčice 
+279 9 Markovce 
+280 7 Oborín 
+281 3 Veľké Raškovce 
+282 2 Petrikovce 
+283 4 Beša 
+284 1 Ižkovce 
+285 9 Vojany 
+286 9 Čičarovce 
+287 14 Drahňov 
+288 2 Stretavka 
+289 7 Stretava 
+290 2 Malé Raškovce 
+291 4 Zemplínske Kopčany 
+292 7 Slavkovce 
+293 15 Budkovce 
+294 7 Dúbravka 
+295 8 Hatalov 
+296 7 Falkušovce 
+297 4 Kačanov 
+298 10 Bracovce 
+299 8 Ložín 
+300 7 Bánovce nad Ondavou 
+301 10 Žbince 
+302 9 Vrbnica 
+303 6 Laškovce 
+304 19 Trhovište 
+305 6 Šamudovce 
+306 6 Krásnovce 
+307 13 Pozdišovce 
+308 7 Sliepkovce 
+309 12 Lastomír 
+310 400 Michalovce 
+311 8 Horovce 
+312 6 Tušická Nová Ves 
+313 7 Tušice 
+314 10 Moravany 
+315 11 Rakovec nad Ondavou 
+316 4 Suché 
+317 11 Zalužice 
+318 6 Lúčky 
+319 5 Hažín 
+320 4 Čečehov 
+321 3 Jastrabie pri Michalovciach 
+322 8 Iňačovce 
+323 9 Zemplínska Široká 
+324 7 Senné 
+325 9 Palín 
+326 2 Soľnička 
+327 5 Poľany 
+328 8 Čerhov 
+329 4 Malá Tŕňa 
+330 2 Černochov 
+331 3 Bara 
+332 12 Borša 
+333 11 Slovenské Nové Mesto 
+334 5 Viničky 
+335 3 Ladmovce 
+336 4 Zemplín 
+337 2 Svinice 
+338 8 Svätuše 
+339 6 Svätá Mária 
+340 16 Somotor 
+341 2 Klin nad Bodrogom 
+342 8 Veľký Kamenec 
+343 5 Malý Kamenec 
+344 6 Strážne 
+345 10 Veľký Horeš 
+346 11 Malý Horeš 
+347 23 Streda nad Bodrogom 
+348 7 Boľ 
+349 8 Zatín 
+350 6 Rad 
+351 44 Strážske 
+352 8 Staré 
+353 5 Oreské 
+354 17 Nacina Ves 
+355 3 Voľa 
+356 5 Zbudza 
+357 10 Petrovce nad Laborcom 
+358 6 Trnava pri Laborci 
+359 17 Vinné 
+360 4 Lesné 
+361 4 Pusté Čemerné 
+362 77 Kráľovský Chlmec 
+363 10 Pribeník 
+364 7 Bačka 
+365 18 Leles 
+366 4 Dobrá 
+367 15 Biel 
+368 39 Čierna nad Tisou 
+369 14 Veľké Trakany 
+370 11 Malé Trakany 
+371 5 Čierna 
+372 13 Boťany 
+373 94 Veľké Kapušany 
+374 9 Kapušianske Kľačany 
+375 6 Ruská 
+376 6 Veľké Slemence 
+377 5 Ptrukša 
+378 2 Budince 
+379 3 Čierne Pole 
+380 6 Maťovské Vojkovce 
+381 9 Krišovská Liesková 
+382 44 Pavlovce nad Uhom 
+383 5 Bajany 
+384 10 Lekárovce 
+385 2 Pinkovce 
+386 7 Záhor 
+387 10 Bežovce 
+388 8 Vysoká nad Uhom 
+389 2 Tašuľa 
+390 5 Jenkovce 
+391 3 Nižné Nemecké 
+392 2 Vyšné Nemecké 
+393 4 Krčava 
+394 2 Sejkov 
+395 3 Kristy 
+396 2 Porostov 
+397 3 Ostrov 
+398 60 Sobrance 
+399 1 Svätuš 
+400 2 Blatná Polianka 
+401 6 Blatné Remety 
+402 4 Bunkovce 
+403 2 Blatné Revištia 
+404 5 Veľké Revištia 
+405 4 Nižná Rybnica 
+406 5 Tibava 
+407 2 Vojnatina 
+408 5 Koromľa 
+409 2 Petrovce 
+410 3 Orechová 
+411 2 Husák 
+412 2 Kolibabovce 
+413 3 Priekopa 
+414 4 Porúbka 
+415 3 Baškovce 
+416 5 Závadka 
+417 2 Hnojné 
+418 3 Fekišovce 
+419 7 Úbrež 
+420 3 Ruskovce 
+421 6 Choňkovce 
+422 4 Koňuš 
+423 4 Hlivištia 
+424 4 Podhoroď 
+425 2 Beňatina 
+426 2 Inovce 
+427 3 Ruský Hrabovec 
+428 1 Ruská Bystrá 
+429 3 Jasenov 
+430 4 Vyšná Rybnica 
+431 4 Vyšné Remety 
+432 6 Remetské Hámre 
+433 6 Poruba pod Vihorlatom 
+434 8 Jovsa 
+435 4 Kusín 
+436 4 Klokočov 
+437 4 Kaluža 
+438 5 Vojka 
+439 5 Veľká Tŕňa 
+440 2 Ardovo 
+441 6 Dlhá Ves 
+442 4 Kečovo 
+443 13 Gemerská Hôrka 
+444 2 Meliata 
+445 4 Bretka 
+446 5 Lipovník 
+447 6 Kolinovce 
+448 7 Arnutovce 
+449 3 Nižný Čaj 
+450 7 Košice - Džungľa 
+451 233 Košice - Sídlisko Ťahanovce 
+452 24 Košice - Ťahanovce 
+453 12 Košice - Kavečany 
+454 7 Košice - Šebastovce 
+455 257 Košice - Nad jazerom 
+456 17 Košice - Vyšné Opátske 
+457 252 Košice - Sídlisko KVP 
+458 5 Košice - Lorinčík 
+459 11 Košice - Poľov 
+460 4 Horňa 
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+592
+593

@@ -1,0 +1,433 @@
+432
+1 24 Klokočov 
+2 54 Raková 
+3 18 Zákopčie 
+4 28 Staškov 
+5 78 Turzovka 
+6 20 Olešná 
+7 13 Podvysoká 
+8 6 Dlhá nad Kysucou 
+9 21 Korňa 
+10 32 Nesluša 
+11 10 Rudinská 
+12 17 Rudina 
+13 4 Rudinka 
+14 20 Dlhé Pole 
+15 39 Veľké Rovné 
+16 18 Makov 
+17 27 Vysoká nad Kysucou 
+18 24 Divina 
+19 36 Svrčinovec 
+20 249 Čadca 
+21 52 Skalité 
+22 44 Čierne 
+23 56 Oščadnica 
+24 22 Zborov nad Bystricou 
+25 5 Klubina 
+26 27 Stará Bystrica 
+27 28 Nová Bystrica 
+28 8 Radôstka 
+29 8 Lutiše 
+30 11 Dunajov 
+31 10 Lodno 
+32 12 Povina 
+33 157 Kysucké Nové Mesto 
+34 14 Radoľa 
+35 5 Lopušné Pažite 
+36 5 Dolný Vadičov 
+37 23 Kysucký Lieskovec 
+38 69 Krásno nad Kysucou 
+39 19 Ochodnica 
+40 33 Oravská Lesná 
+41 52 Zákamenné 
+42 16 Breza 
+43 10 Krušetnica 
+44 23 Lokca 
+45 8 Vasiľov 
+46 14 Babín 
+47 32 Hruštín 
+48 9 Lomná 
+49 34 Novoť 
+50 8 Beňadovo 
+51 29 Mútne 
+52 28 Oravské Veselé 
+53 20 Rabčice 
+54 22 Zubrohlava 
+55 17 Bobrov 
+56 47 Rabča 
+57 22 Klin 
+58 79 Námestovo 
+59 17 Oravská Jasenica 
+60 14 Vavrečka 
+61 14 Dlhá nad Oravou 
+62 8 Krivá 
+63 13 Podbiel 
+64 40 Nižná 
+65 94 Tvrdošín 
+66 7 Štefanov nad Oravou 
+67 38 Oravská Polhora 
+68 21 Sihelné 
+69 7 Oravský Biely Potok 
+70 75 Trstená 
+71 28 Liesek 
+72 7 Čimhová 
+73 13 Vitanová 
+74 10 Hladovka 
+75 14 Suchá Hora 
+76 8 Zábiedovo 
+77 13 Brezovica 
+78 14 Habovka 
+79 18 Kolárovice 
+80 113 Bytča 
+81 19 Kotešová 
+82 10 Svederník 
+83 41 Štiavnik 
+84 12 Hvozdnica 
+85 8 Maršová 
+86 14 Predmier 
+87 9 Jablonové 
+88 8 Horný Hričov 
+89 4 Hričovské Podhradie 
+90 2 Paština Závada 
+91 7 Bitarová 
+92 6 Ovčiarsko 
+93 16 Dolný Hričov 
+94 7 Hôrky 
+95 5 Brezany 
+96 14 Lietava 
+97 8 Podhorie 
+98 18 Lietavská Lúčka 
+99 815 Žilina 
+100 10 Divinka 
+101 30 Rosina 
+102 27 Višňové 
+103 20 Turie 
+104 4 Porúbka 
+105 16 Lietavská Svinná - Babkov 
+106 7 Stránske 
+107 29 Rajecké Teplice 
+108 15 Konská 
+109 10 Kunerad 
+110 18 Kamenná Poruba 
+111 4 Kľače 
+112 8 Zbyňov 
+113 6 Jasenové 
+114 59 Rajec 
+115 11 Ďurčiná 
+116 4 Veľká Čierna 
+117 4 Malá Čierna 
+118 12 Rajecká Lesná 
+119 7 Fačkov 
+120 9 Hlboké nad Váhom 
+121 3 Šuja 
+122 15 Petrovice 
+123 10 Snežnica 
+124 16 Horný Vadičov 
+125 4 Kotrčiná Lúčka 
+126 38 Teplička nad Váhom 
+127 10 Nededza 
+128 12 Gbeľany 
+129 14 Krasňany 
+130 7 Stráža 
+131 13 Dolná Tižina 
+132 8 Lysica 
+133 34 Belá 
+134 40 Terchová 
+135 27 Zázrivá 
+136 4 Nezbudská Lúčka 
+137 26 Strečno 
+138 18 Stráňavy 
+139 7 Mojš 
+140 76 Vrútky 
+141 47 Sučany 
+142 9 Lipovec 
+143 9 Turčianske Kľačany 
+144 11 Krpeľany 
+145 2 Ratkovo 
+146 2 Nolčovo 
+147 44 Turany 
+148 9 Turčianska Štiavnička 
+149 2 Sklabinský Podzámok 
+150 5 Šútovo 
+151 7 Podhradie 
+152 6 Sklabiňa 
+153 1 Záborie 
+154 4 Turčianske Jaseno 
+155 13 Belá - Dulice 
+156 3 Diaková 
+157 8 Dražkovce 
+158 573 Martin 
+159 1 Dolný Kalník 
+160 2 Horný Kalník 
+161 12 Žabokreky 
+162 12 Košťany nad Turcom 
+163 14 Bystrička 
+164 5 Trebostovo 
+165 3 Trnovo 
+166 5 Kraľovany 
+167 11 Ľubochňa 
+168 4 Turčiansky Peter 
+169 8 Párnica 
+170 16 Žaškov 
+171 14 Istebné 
+172 10 Veličná 
+173 10 Oravská Poruba 
+174 7 Vyšný Kubín 
+175 4 Jasenová 
+176 12 Stankovany 
+177 11 Hubová 
+178 284 Ružomberok 
+179 11 Liptovská Štiavnica 
+180 10 Ludrová 
+181 6 Štiavnička 
+182 21 Lisková 
+183 38 Sliače 
+184 4 Martinček 
+185 31 Likavka 
+186 8 Valaská Dubová 
+187 15 Komjatná 
+188 3 Leštiny 
+189 1 Osádka 
+190 18 Lúčky 
+191 3 Liptovský Michal 
+192 5 Ivachnová 
+193 10 Liptovská Teplá 
+194 2 Turík 
+195 6 Bešeňová 
+196 5 Kalameny 
+197 1 Potok 
+198 1 Bobrovník 
+199 6 Vlachy 
+200 1 Bukovina 
+201 1 Liptovská Anna 
+202 2 Prosiek 
+203 1 Ižipovce 
+204 6 Liptovská Sielnica 
+205 6 Liptovský Trnovec 
+206 8 Malatiná 
+207 1 Veľké Borové 
+208 2 Malé Borové 
+209 6 Kvačany 
+210 3 Liptovské Matiašovce 
+211 1 Liptovské Beharovce 
+212 8 Pucov 
+213 2 Pokryváč 
+214 5 Medzibrodie nad Oravou 
+215 13 Oravský Podzámok 
+216 5 Pribiš 
+217 5 Horná Lehota 
+218 16 Chlebnice 
+219 5 Sedliacka Dubová 
+220 3 Galovany 
+221 8 Svätý Kríž 
+222 11 Ľubeľa 
+223 12 Dúbrava 
+224 4 Liptovské Kľačany 
+225 4 Lazisko 
+226 2 Malatíny 
+227 12 Partizánska Ľupča 
+228 8 Švošov 
+229 196 Dolný Kubín 
+230 6 Bziny 
+231 2 Huty 
+232 18 Zuberec 
+233 3 Pavlova Ves 
+234 2 Bobrovček 
+235 3 Jalovec 
+236 6 Smrečany 
+237 4 Veterná Poruba 
+238 6 Liptovský Ondrej 
+239 4 Žiar 
+240 18 Bobrovec 
+241 319 Liptovský Mikuláš 
+242 2 Trstené 
+243 12 Závažná Poruba 
+244 10 Liptovský Ján 
+245 76 Liptovský Hrádok 
+246 6 Kráľova Lehota 
+247 12 Liptovská Porúbka 
+248 14 Liptovský Peter 
+249 7 Vavrišovo 
+250 10 Podtureň 
+251 5 Jamník 
+252 5 Beňadiková 
+253 14 Pribylina 
+254 2 Konská 
+255 4 Jakubovany 
+256 10 Liptovská Kokava 
+257 15 Hybe 
+258 22 Východná 
+259 5 Uhorská Ves 
+260 24 Važec 
+261 7 Dubové 
+262 2 Veľký Čepčín 
+263 5 Malý Čepčín 
+264 1 Ivančiná 
+265 2 Abramová 
+266 1 Ondrašová 
+267 1 Moškovec 
+268 2 Blažovce 
+269 3 Jazernica 
+270 2 Bodorová 
+271 9 Blatnica 
+272 13 Mošovce 
+273 2 Socovce 
+274 1 Laskár 
+275 1 Karlová 
+276 3 Rakovo 
+277 11 Príbovce 
+278 2 Turčiansky Ďur 
+279 2 Ležiachov 
+280 4 Slovany 
+281 15 Kláštor pod Znievom 
+282 1 Folkušová 
+283 9 Necpaly 
+284 5 Ďanová 
+285 3 Benice 
+286 15 Valča 
+287 2 Rakša 
+288 1 Čremošné 
+289 5 Háj 
+290 7 Turček 
+291 8 Sklené 
+292 67 Turčianske Teplice 
+293 16 Horná Štubňa 
+294 2 Čičmany 
+295 10 Slovenské Pravno 
+296 1 Brieštie 
+297 2 Budiš 
+298 2 Jasenovo 
+299 1 Liešno 
+300 2 Rudno 
+301 1 Kaľamenová 
+302 5 Vrícko 
+303 16 Liptovská Osada 
+304 29 Liptovská Lúžna 
+305 3 Demänovská Dolina 
+306 1 Vyšná Boca 
+307 2 Nižná Boca 
+308 3 Malužiná 
+309 16 Liptovské Revúce 
+310 9 Súľov - Hradná 
+311 37 Varín 
+312 7 Ťapešovo 
+313 4 Gôtovany 
+314 4 Pavčina Lehota 
+315 1 Borcová 
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432

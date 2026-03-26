@@ -1,0 +1,889 @@
+888
+1 6 Vernár 
+2 24 Liptovská Teplička 
+3 19 Vikartovce 
+4 9 Kravany 
+5 24 Spišské Bystré 
+6 29 Hranovnica 
+7 27 Spišský Štiavnik 
+8 18 Hôrka 
+9 15 Jánovce 
+10 11 Vydrník 
+11 24 Spišský Štvrtok 
+12 148 Levoča 
+13 9 Domaňovce 
+14 6 Klčov 
+15 4 Nemešany 
+16 6 Doľany 
+17 14 Spišský Hrhov 
+18 2 Baldovce 
+19 3 Buglovce 
+20 41 Spišské Podhradie 
+21 5 Studenec 
+22 2 Beharovce 
+23 6 Granč - Petrovce 
+24 3 Dúbrava 
+25 1 Harakovce 
+26 24 Široké 
+27 20 Víťaz 
+28 7 Ovčie 
+29 1 Korytné 
+30 20 Chminianske Jakubovany 
+31 8 Dravce 
+32 5 Dlhé Stráže 
+33 4 Kurimany 
+34 5 Štôla 
+35 6 Mengusovce 
+36 36 Štrba 
+37 76 Svit 
+38 22 Spišská Teplica 
+39 19 Šuňava 
+40 528 Poprad 
+41 8 Hozelec 
+42 13 Švábovce 
+43 3 Abrahámovce 
+44 7 Vlková 
+45 14 Vrbov 
+46 9 Žakovce 
+47 43 Ľubica 
+48 42 Vysoké Tatry 
+49 10 Gerlachov 
+50 23 Batizovce 
+51 10 Stará Lesná 
+52 64 Spišská Belá 
+53 10 Malý Slavkov 
+54 21 Stráne pod Tatrami 
+55 7 Mlynčeky 
+56 50 Lendak 
+57 19 Slovenská Ves 
+58 11 Výborná 
+59 14 Ždiar 
+60 2 Tatranská Javorina 
+61 3 Osturňa 
+62 4 Veľká Franková 
+63 2 Malá Franková 
+64 8 Spišské Hanušovce 
+65 23 Spišská Stará Ves 
+66 1 Jezersko 
+67 4 Reľov 
+68 8 Matiašovce 
+69 1 Zálesie 
+70 1 Havka 
+71 1 Majere 
+72 2 Červený Kláštor 
+73 3 Lechnica 
+74 7 Haligovce 
+75 5 Veľká Lesná 
+76 3 Vojňany 
+77 29 Huncovce 
+78 168 Kežmarok 
+79 10 Lučivná 
+80 15 Nová Lesná 
+81 13 Veľký Slavkov 
+82 13 Gánovce 
+83 28 Rakúsy 
+84 43 Veľká Lomnica 
+85 5 Mlynica 
+86 2 Uloža 
+87 1 Lúčka 
+88 2 Ordzovany 
+89 9 Bijacovce 
+90 2 Poľanovce 
+91 1 Pongrácovce 
+92 11 Fričovce 
+93 2 Hendrichovce 
+94 2 Štefanovce 
+95 5 Šindliar 
+96 5 Lipovce 
+97 5 Vlkovce 
+98 7 Tvarožná 
+99 1 Vyšné Repaše 
+100 1 Pavľany 
+101 2 Nižné Repaše 
+102 4 Torysky 
+103 3 Oľšavica 
+104 2 Brutovce 
+105 3 Vyšný Slavkov 
+106 8 Nižný Slavkov 
+107 2 Renčišov 
+108 17 Brezovica 
+109 1 Vysoká 
+110 4 Brezovička 
+111 3 Tichý Potok 
+112 15 Torysa 
+113 13 Šarišské Dravce 
+114 7 Krásna Lúka 
+115 9 Poloma 
+116 64 Lipany 
+117 4 Oľšov 
+118 12 Krivany 
+119 8 Ďačov 
+120 15 Dubovica 
+121 13 Rožkovany 
+122 7 Lúčka 
+123 19 Kamenica 
+124 2 Pusté Pole 
+125 7 Kyjov 
+126 13 Šarišské Jastrabie 
+127 3 Ďurková 
+128 7 Milpoš 
+129 14 Ľubotín 
+130 3 Vislanka 
+131 18 Plaveč 
+132 5 Hromoš 
+133 16 Plavnica 
+134 4 Šambron 
+135 3 Bajerovce 
+136 26 Jakubany 
+137 29 Nová Ľubovňa 
+138 163 Stará Ľubovňa 
+139 12 Kolačkov 
+140 15 Hniezdne 
+141 2 Lacková 
+142 4 Forbasy 
+143 6 Nižné Ružbachy 
+144 14 Vyšné Ružbachy 
+145 33 Podolínec 
+146 28 Lomnička 
+147 20 Krížová Ves 
+148 3 Bušovce 
+149 24 Podhorany 
+150 19 Toporec 
+151 9 Holumnica 
+152 10 Jurské 
+153 14 Ihľany 
+154 14 Kamienka 
+155 2 Stráňany 
+156 10 Veľký Lipník 
+157 9 Jarabina 
+158 6 Litmanová 
+159 1 Kremná 
+160 2 Hraničné 
+161 7 Mníšek nad Popradom 
+162 10 Chmeľnica 
+163 1 Matysová 
+164 1 Hajtovka 
+165 4 Údol 
+166 5 Malý Lipník 
+167 4 Sulín 
+168 1 Starina 
+169 1 Legnava 
+170 7 Orlov 
+171 12 Čirč 
+172 1 Ruská Voľa nad Popradom 
+173 10 Lenartov 
+174 1 Obručné 
+175 19 Hermanovce 
+176 5 Bertotovce 
+177 4 Uzovské Pekľany 
+178 4 Jakubova Voľa 
+179 8 Červenica pri Sabinove 
+180 1 Hanigovce 
+181 15 Malý Šariš 
+182 7 Hrabkov 
+183 4 Krížovany 
+184 9 Chmiňany 
+185 12 Chminianska Nová Ves 
+186 1 Ondrašovce 
+187 2 Brežany 
+188 9 Rokycany 
+189 10 Kojatice 
+190 916 Prešov 
+191 11 Ruská Nová Ves 
+192 7 Dulova Ves 
+193 5 Teriakovce 
+194 7 Kokošovce 
+195 6 Záborské 
+196 4 Zlatá Baňa 
+197 9 Červenica 
+198 6 Abranovce 
+199 10 Žehňa 
+200 5 Tuhrina 
+201 2 Lúčina 
+202 3 Lesíček 
+203 12 Mirkovce 
+204 4 Brestov 
+205 14 Varhaňovce 
+206 1 Seniakovce 
+207 7 Šarišské Bohdanovce 
+208 21 Drienov 
+209 18 Petrovany 
+210 18 Kendice 
+211 4 Bretejovce 
+212 3 Janovík 
+213 18 Lemešany 
+214 10 Ličartovce 
+215 8 Drienovská Nová Ves 
+216 7 Haniska 
+217 8 Bzenov 
+218 8 Radatice 
+219 3 Janov 
+220 5 Ľubovec 
+221 2 Suchá Dolina 
+222 11 Sedlice 
+223 3 Miklušovce 
+224 2 Klenov 
+225 5 Bajerov 
+226 3 Kvačany 
+227 3 Žipov 
+228 2 Vlača 
+229 26 Pečovská Nová Ves 
+230 5 Ľutina 
+231 3 Jakovany 
+232 5 Červená Voda 
+233 127 Sabinov 
+234 7 Drienica 
+235 9 Jakubovany 
+236 5 Šarišské Sokolovce 
+237 5 Uzovce 
+238 5 Hubošovce 
+239 3 Bodovce 
+240 1 Ratvaj 
+241 8 Gregorovce 
+242 29 Šarišské Michaľany 
+243 12 Terňa 
+244 2 Mošurov 
+245 8 Malý Slivník 
+246 3 Veľký Slivník 
+247 1 Geraltov 
+248 11 Demjata 
+249 10 Záhradné 
+250 13 Tulčík 
+251 19 Fintice 
+252 4 Fulianka 
+253 22 Kapušany 
+254 54 Veľký Šariš 
+255 7 Medzany 
+256 18 Ostrovany 
+257 15 Ražňany 
+258 6 Uzovský Šalgov 
+259 56 Jarovnice 
+260 1 Daletice 
+261 2 Lažany 
+262 14 Župčany 
+263 11 Vyšná Šebastová 
+264 2 Trnkov 
+265 5 Okružná 
+266 5 Šarišská Poruba 
+267 5 Lipníky 
+268 8 Pavlovce 91322 
+269 3 Medzianky 
+270 37 Hanušovce nad Topľou 
+271 2 Radvanovce 
+272 2 Babie 
+273 10 Chmeľov 
+274 5 Pušovce 
+275 3 Čelovce 
+276 4 Proč 
+277 3 Šarišská Trstená 
+278 4 Chmeľovec 
+279 7 Podhorany 
+280 1 Mičakovce 
+281 42 Giraltovce 
+282 6 Kalnište 
+283 3 Lužany pri Topli 
+284 12 Kračúnovce 
+285 5 Železník 
+286 3 Želmanovce 
+287 3 Dukovce 
+288 6 Stuľany 
+289 3 Lopúchov 
+290 7 Koprivnica 
+291 2 Buclovany 
+292 4 Abrahámovce 
+293 27 Raslavice 
+294 4 Brezov 
+295 5 Lascov 
+296 1 Štefurov 
+297 1 Kožany 
+298 3 Kučín 
+299 3 Nemcovce 
+300 2 Porúbka 
+301 3 Harhaj 
+302 2 Vyšný Kručov 
+303 10 Marhaň 
+304 3 Kochanovce 
+305 2 Oľšavce 
+306 3 Nižná Voľa 
+307 4 Hankovce 
+308 4 Vyšná Voľa 
+309 4 Lukavica 
+310 3 Rešov 
+311 4 Janovce 
+312 3 Tročany 
+313 9 Kobyly 
+314 11 Kurima 
+315 4 Dubinné 
+316 2 Šašová 
+317 2 Mlynárovce 
+318 5 Rovné 
+319 1 Lipová 
+320 2 Ortuťová 
+321 4 Poliakovce 
+322 1 Brezovka 
+323 5 Hrabovec 
+324 12 Hažlín 
+325 8 Beloveža 
+326 4 Komárov 
+327 6 Cernina 
+328 4 Kurimka 
+329 3 Šarišské Čierne 
+330 1 Cigla 
+331 2 Dubová 
+332 3 Nižný Mirošov 
+333 4 Andrejová 
+334 32 Zborov 
+335 7 Smilno 
+336 1 Mikulášová 
+337 1 Jedlinka 
+338 3 Nižná Polianka 
+339 1 Hutka 
+340 6 Vyšný Mirošov 
+341 4 Roztoky 
+342 2 Kečkovce 
+343 4 Vyšný Orlík 
+344 3 Nižný Orlík 
+345 1 Jurkova Voľa 
+346 2 Varadka 
+347 1 Vyšná Polianka 
+348 1 Ondavka 
+349 3 Becherov 
+350 4 Chmeľová 
+351 1 Regetovka 
+352 3 Stebnícka Huta 
+353 3 Stebník 
+354 336 Bardejov 
+355 7 Mokroluh 
+356 6 Rokytov 
+357 4 Tarnov 
+358 6 Sveržov 
+359 5 Nižný Tvarožec 
+360 1 Vyšný Tvarožec 
+361 5 Gaboltov 
+362 8 Petrová 
+363 5 Cigeľka 
+364 3 Frička 
+365 6 Kurov 
+366 10 Kružlov 
+367 8 Gerlachov 
+368 2 Krivé 
+369 10 Richvald 
+370 10 Kľušov 
+371 6 Šiba 
+372 5 Hervartov 
+373 10 Hertník 
+374 7 Bartošovce 
+375 10 Osikov 
+376 7 Fričkovce 
+377 27 Sečovská Polianka 
+378 18 Hlinné 
+379 17 Banské 
+380 27 Vechec 
+381 3 Juskova Voľa 
+382 30 Zámutov 
+383 24 Soľ 
+384 7 Rudlov 
+385 232 Vranov nad Topľou 
+386 5 Jastrabie nad Topľou 
+387 5 Komárany 
+388 4 Nižný Kručov 
+389 12 Čičava 
+390 6 Merník 
+391 2 Vyšný Kazimír 
+392 5 Benkovce 
+393 13 Sedliská 
+394 4 Majerovce 
+395 16 Nižný Hrabovec 
+396 5 Kučín 
+397 5 Kladzany 
+398 10 Tovarné 
+399 1 Tovarnianska Polianka 
+400 4 Hudcovce 
+401 8 Ondavské Matiašovce 
+402 8 Topoľovka 
+403 5 Závadka 
+404 6 Myslina 
+405 7 Hažín nad Cirochou 
+406 24 Kamenica nad Cirochou 
+407 6 Kamienka 
+408 6 Ptičie 
+409 6 Chlmec 
+410 3 Porúbka 
+411 12 Jasenov 
+412 13 Brekov 
+413 16 Nižný Hrušov 
+414 9 Poša 
+415 14 Dlhé Klčovo 
+416 22 Sačurov 
+417 349 Humenné 
+418 4 Cabov 
+419 8 Davidov 
+420 13 Kamenná Poruba 
+421 13 Hencovce 
+422 25 Čaklov 
+423 6 Lackovce 
+424 3 Ďurďoš 
+425 2 Prosačov 
+426 3 Remeniny 
+427 27 Bystré 
+428 7 Hermanovce nad Topľou 
+429 8 Čierne nad Topľou 
+430 12 Vyšný Žipov 
+431 8 Skrabské 
+432 1 Petkovce 
+433 3 Michalok 
+434 1 Zlatník 
+435 4 Kvakovce 
+436 8 Slovenská Kajňa 
+437 4 Malá Domaša 
+438 8 Žalobín 
+439 1 Detrík 
+440 3 Matiaška 
+441 1 Vavrinec 
+442 1 Ruská Voľa 
+443 1 Kobylnice 
+444 1 Fijaš 
+445 1 Soboš 
+446 2 Kručov 
+447 3 Lomné 
+448 2 Bžany 
+449 4 Turany nad Ondavou 
+450 1 Matovce 
+451 2 Valkovce 
+452 7 Okrúhle 
+453 5 Radoma 
+454 6 Vyšná Olšava 
+455 4 Nižná Olšava 
+456 3 Miňovce 
+457 8 Breznica 
+458 109 Stropkov 
+459 1 Vojtovce 
+460 3 Šandal 
+461 2 Baňa 
+462 3 Šarišský Štiavnik 
+463 2 Beňadikovce 
+464 2 Rakovčík 
+465 5 Mestisko 
+466 3 Hrabovčík 
+467 116 Svidník 
+468 1 Nižná Jedľová 
+469 2 Vyšná Jedľová 
+470 4 Kapišová 
+471 7 Kružlová 
+472 1 Dobroslava 
+473 1 Belejovce 
+474 1 Vápeník 
+475 1 Svidnička 
+476 1 Havranec 
+477 1 Dlhoňa 
+478 1 Vyšná Pisaná 
+479 1 Nižná Pisaná 
+480 3 Hunkovce 
+481 10 Ladomirová 
+482 1 Korejovce 
+483 1 Medvedie 
+484 1 Šarbov 
+485 1 Krajná Porúbka 
+486 4 Krajná Bystrá 
+487 2 Krajná Poľana 
+488 2 Nižný Komárnik 
+489 1 Vyšný Komárnik 
+490 1 Bodružal 
+491 1 Príkra 
+492 1 Miroľa 
+493 1 Pstriná 
+494 3 Staškovce 
+495 2 Makovce 
+496 5 Bukovce 
+497 2 Gribov 
+498 1 Kožuchovce 
+499 1 Krajné Čierno 
+500 1 Vagrinec 
+501 1 Šemetkovce 
+502 2 Vislava 
+503 2 Oľšavka 
+504 5 Chotča 
+505 1 Vyškovce 
+506 3 Krušinec 
+507 5 Duplín 
+508 1 Potoky 
+509 1 Nová Polianka 
+510 5 Stročín 
+511 4 Tisinec 
+512 4 Havaj 
+513 1 Malá Poľana 
+514 2 Miková 
+515 1 Vladiča 
+516 2 Veľkrop 
+517 1 Breznička 
+518 1 Soľník 
+519 1 Potôčky 
+520 1 Korunková 
+521 2 Kolbovce 
+522 4 Brusnica 
+523 1 Jakušovce 
+524 1 Krišľovce 
+525 2 Varechovce 
+526 1 Repejov 
+527 1 Závada 
+528 3 Ruská Poruba 
+529 3 Oľka 
+530 1 Rohožník 
+531 1 Prituľany 
+532 4 Vyšná Sitnica 
+533 3 Nižná Sitnica 
+534 5 Pakostov 
+535 1 Ruská Kajňa 
+536 1 Piskorovce 
+537 1 Tokajík 
+538 1 Mrázovce 
+539 2 Vyšný Hrabovec 
+540 4 Nová Kelča 
+541 2 Rafajovce 
+542 5 Ďapalovce 
+543 6 Košarovce 
+544 5 Lukačovce 
+545 4 Holčíkovce 
+546 2 Giglovce 
+547 2 Jasenovce 
+548 1 Girovce 
+549 1 Štefanovce 
+550 4 Lieskovec 
+551 4 Karná 
+552 3 Víťazovce 
+553 7 Ohradzany 
+554 5 Slovenská Volová 
+555 6 Brestov 
+556 1 Gruzovce 
+557 4 Baškovce 
+558 3 Turcovce 
+559 2 Černina 
+560 1 Sopkovce 
+561 2 Vyšné Ladičkovce 
+562 3 Nižné Ladičkovce 
+563 8 Ľubiša 
+564 5 Hankovce 
+565 6 Koškovce 
+566 2 Dedačov 
+567 1 Maškovce 
+568 5 Rovné 
+569 4 Veľopolie 
+570 12 Udavské 
+571 8 Kochanovce 
+572 4 Jabloň 
+573 1 Slovenské Krivé 
+574 3 Rokytov pri Humennom 
+575 7 Zbudské Dlhé 
+576 6 Hrabovec nad Laborcom 
+577 6 Radvaň nad Laborcom 
+578 1 Brestov nad Laborcom 
+579 5 Hrubov 
+580 2 Zbojné 
+581 1 Svetlice 
+582 2 Výrava 
+583 4 Čabalovce 
+584 1 Zbudská Belá 
+585 1 Valentovce 
+586 4 Čabiny 
+587 3 Volica 
+588 5 Krásny Brod 
+589 4 Ňagov 
+590 68 Medzilaborce 
+591 2 Palota 
+592 3 Kalinov 
+593 2 Roškovce 
+594 1 Sukov 
+595 1 Bystrá 
+596 2 Rokytovce 
+597 5 Habura 
+598 4 Čertižné 
+599 1 Oľšinkov 
+600 3 Jankovce 
+601 10 Modra nad Cirochou 
+602 15 Malcov 
+603 2 Dúbrava 
+604 8 Ubľa 
+605 9 Ulič 
+606 3 Uličské Krivé 
+607 4 Zboj 
+608 3 Nová Sedlica 
+609 1 Hrabová Roztoka 
+610 1 Šmigovec 
+611 1 Strihovce 
+612 3 Ladomirov 
+613 1 Michajlov 
+614 5 Klenová 
+615 1 Ruská Volová 
+616 1 Brezovec 
+617 6 Kalná Roztoka 
+618 6 Kolonica 
+619 25 Stakčín 
+620 3 Stakčínska Roztoka 
+621 1 Jalová 
+622 2 Topoľa 
+623 1 Príslop 
+624 1 Runina 
+625 1 Ruský Potok 
+626 1 Kolbasov 
+627 207 Snina 
+628 6 Pichne 
+629 34 Belá nad Cirochou 
+630 13 Zemplínske Hámre 
+631 4 Zubné 
+632 1 Nechválova Polianka 
+633 10 Papín 
+634 2 Nižná Jablonka 
+635 3 Hostovice 
+636 2 Osadné 
+637 1 Parihuzovce 
+638 2 Čukalovce 
+639 6 Pčoliné 
+640 20 Dlhé nad Cirochou 
+641 2 Adidovce 
+642 5 Vyšný Hrušov 
+643 1 Vyšná Jablonka 
+644 5 Lesnica 
+645 10 Jablonov 
+646 6 Lukov 
+647 1 Bogliarka 
+648 1 Kríže 
+649 1 Livov 
+650 1 Livovská Huta 
+651 7 Snakov 
+652 6 Hrabské 
+653 18 Svinia 
+654 31 Ľubotice 
+655 8 Zlaté 
+656 4 Vaniškovce 
+657 4 Podhradík 
+658 4 Olejníkov 
+659 4 Petrovce 
+660 5 Lúčka 
+661 7 Kuková 
+662 8 Lada 
+663 5 Nemcovce 
+664 1 Hradisko 
+665
+666
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+800
+801
+802
+803
+804
+805
+806
+807
+808
+809
+810
+811
+812
+813
+814
+815
+816
+817
+818
+819
+820
+821
+822
+823
+824
+825
+826
+827
+828
+829
+830
+831
+832
+833
+834
+835
+836
+837
+838
+839
+840
+841
+842
+843
+844
+845
+846
+847
+848
+849
+850
+851
+852
+853
+854
+855
+856
+857
+858
+859
+860
+861
+862
+863
+864
+865
+866
+867
+868
+869
+870
+871
+872
+873
+874
+875
+876
+877
+878
+879
+880
+881
+882
+883
+884
+885
+886
+887
+888

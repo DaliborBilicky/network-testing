@@ -1,0 +1,7 @@
+.settings/
+results/
+target/
+.classpath
+.project
+.clang-format
+out.log

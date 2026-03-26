@@ -1,0 +1,167 @@
+166
+1 10 Bratislava - Čunovo 
+2 27 Závod 
+3 35 Veľké Leváre 
+4 12 Malé Leváre 
+5 29 Gajary 
+6 12 Kostolište 
+7 171 Malacky 
+8 15 Jakubov 
+9 18 Záhorská Ves 
+10 6 Suchohrad 
+11 15 Láb 
+12 23 Plavecký Štvrtok 
+13 22 Vysoká pri Morave 
+14 32 Zohor 
+15 29 Lozorno 
+16 93 Stupava 
+17 14 Marianka 
+18 7 Borinka 
+19 690 Bratislava - Ružinov 
+20 24 Rovinka 
+21 46 Dunajská Lužná 
+22 12 Kalinkovo 
+23 15 Hamuliakovo 
+24 23 Most pri Bratislave 
+25 20 Malinovo 
+26 19 Miloslavov 
+27 15 Zálesie 
+28 55 Bernolákovo 
+29 39 Chorvátsky Grob 
+30 22 Slovenský Grob 
+31 21 Viničné 
+32 52 Svätý Jur 
+33 17 Limbach 
+34 213 Pezinok 
+35 12 Vinosady 
+36 11 Jablonové 
+37 8 Pernek 
+38 17 Kuchyňa 
+39 35 Rohožník 
+40 15 Sološnica 
+41 7 Plavecký Mikuláš 
+42 7 Plavecké Podhradie 
+43 16 Studienka 
+44 59 Ivanka pri Dunaji 
+45 388 Bratislava - Staré Mesto 
+46 51 Bratislava - Vajnory 
+47 67 Bratislava - Lamač 
+48 35 Bratislava - Záhorská Bystrica 
+49 329 Bratislava - Karlova Ves 
+50 1058 Bratislava - Petržalka 
+51 208 Bratislava - Podunajské Biskupice 
+52 157 Bratislava - Devínska Nová Ves 
+53 24 Tomášov 
+54 4 Vlky 
+55 20 Nová Dedinka 
+56 10 Tureň 
+57 8 Hrubý Šúr 
+58 5 Kostolná pri Dunaji 
+59 3 Hurbanova Ves 
+60 16 Kráľová pri Senci 
+61 4 Hrubá Borša 
+62 14 Reca 
+63 4 Boldog 
+64 16 Blatné 
+65 45 Šenkvice 
+66 22 Budmerice 
+67 13 Vištuk 
+68 17 Báhoň 
+69 7 Kaplna 
+70 11 Čataj 
+71 6 Igram 
+72 9 Jablonec 
+73 9 Dubová 
+74 3 Píla 
+75 22 Častá 
+76 10 Doľany 
+77 3 Štefanová 
+78 173 Senec 
+79 88 Modra 
+80 23 Veľký Biel 
+81 15 Bratislava - Jarovce 
+82 29 Bratislava - Rusovce 
+83 193 Bratislava - Vrakuňa 
+84 365 Bratislava - Nové Mesto 
+85 198 Bratislava - Rača 
+86 328 Bratislava - Dúbravka 
+87 11 Bratislava - Devín 
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166

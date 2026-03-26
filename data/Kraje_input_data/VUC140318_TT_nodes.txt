@@ -1,0 +1,450 @@
+449
+1 14 Trstín 
+2 5 Naháč 
+3 19 Dechtice 
+4 11 Kátlovce 
+5 12 Veselé 
+6 10 Dubovany 
+7 27 Veľké Kostoľany 
+8 15 Trakovice 
+9 14 Malženice 
+10 22 Madunice 
+11 26 Drahovce 
+12 5 Jalšové 
+13 7 Koplotovce 
+14 13 Sokolovce 
+15 42 Leopoldov 
+16 16 Červeník 
+17 13 Bojničky 
+18 21 Dvorníky 
+19 4 Šalgočka 
+20 8 Zemianske Sady 
+21 6 Pusté Sady 
+22 30 Pata 
+23 41 Šoporňa 
+24 21 Váhovce 
+25 15 Kajal 
+26 8 Topoľnica 
+27 19 Dolné Saliby 
+28 12 Kráľov Brod 
+29 32 Horné Saliby 
+30 16 Tomášikovo 
+31 20 Matúškovo 
+32 151 Galanta 
+33 15 Jahodná 
+34 12 Vozokany 
+35 16 Mostová 
+36 16 Čierny Brod 
+37 14 Čierna Voda 
+38 16 Košúty 
+39 60 Sládkovičovo 
+40 44 Veľké Úľany 
+41 39 Jelka 
+42 22 Nový Život 
+43 36 Zlaté Klasy 
+44 2 Bellova Ves 
+45 4 Blahová 
+46 26 Lehnice 
+47 4 Oľdza 
+48 9 Veľká Paka 
+49 10 Kvetoslavov 
+50 6 Hviezdoslavov 
+51 18 Štvrtok na Ostrove 
+52 6 Čakany 
+53 9 Janíky 
+54 6 Hubice 
+55 11 Čenkovce 
+56 5 Jánovce 
+57 17 Pusté Úľany 
+58 13 Veľký Grob 
+59 5 Pavlice 
+60 14 Voderady 
+61 5 Slovenská Nová Ves 
+62 11 Abrahám 
+63 5 Hoste 
+64 19 Majcichov 
+65 25 Zeleneč 
+66 662 Trnava 
+67 162 Sereď 
+68 18 Šintava 
+69 26 Veľká Mača 
+70 7 Gáň 
+71 14 Dolná Streda 
+72 16 Vinohrady nad Váhom 
+73 23 Šúrovce 
+74 22 Zavar 
+75 10 Opoj 
+76 13 Vlčkovce 
+77 18 Križovany nad Dudváhom 
+78 22 Hrnčiarovce nad Parnou 
+79 15 Biely Kostol 
+80 15 Ružindol 
+81 13 Dolné Orešany 
+82 19 Suchá nad Parnou 
+83 4 Borová 
+84 4 Dlhá 
+85 8 Košolná 
+86 8 Zvončín 
+87 24 Špačince 
+88 8 Šelpice 
+89 12 Bohdanovce nad Trnavou 
+90 19 Horné Orešany 
+91 22 Boleráz 
+92 34 Smolenice 
+93 5 Lošonec 
+94 7 Bíňovce 
+95 23 Dolná Krupá 
+96 6 Dolné Dubové 
+97 5 Horná Krupá 
+98 4 Horné Dubové 
+99 20 Jaslovské Bohunice 
+100 4 Radošovce 
+101 5 Pečeňady 
+102 3 Ratkovce 
+103 6 Žlkovce 
+104 23 Bučany 
+105 24 Brestovany 
+106 8 Dolné Lovčice 
+107 7 Horné Zelenice 
+108 6 Dolné Zelenice 
+109 7 Siladice 
+110 227 Hlohovec 
+111 41 Cífer 
+112 5 Nižná 
+113 10 Prievaly 
+114 6 Plavecký Peter 
+115 7 Buková 
+116 128 Šamorín 
+117 5 Trnávka 
+118 6 Báč 
+119 2 Macov 
+120 20 Horná Potôň 
+121 9 Michal na Ostrove 
+122 17 Orechová Potôň 
+123 15 Vydrany 
+124 13 Kútniky 
+125 10 Malé Dvorníky 
+126 10 Veľké Dvorníky 
+127 10 Horné Mýto 
+128 21 Trhová Hradská 
+129 12 Ohrady 
+130 6 Dolný Bar 
+131 5 Mad 
+132 26 Vrakúň 
+133 38 Trstice 
+134 31 Topoľníky 
+135 19 Dolný Štál 
+136 37 Okoč 
+137 89 Veľký Meder 
+138 4 Kľúčovec 
+139 6 Medveďov 
+140 8 Baloň 
+141 5 Sap 
+142 7 Ňárad 
+143 8 Pataš 
+144 53 Gabčíkovo 
+145 4 Boheľov 
+146 9 Padáň 
+147 10 Kráľovičove Kračany 
+148 13 Kostolné Kračany 
+149 5 Jurová 
+150 11 Baka 
+151 5 Trstená na Ostrove 
+152 13 Horný Bar 
+153 7 Lúč na Ostrove 
+154 12 Rohovce 
+155 5 Vojka nad Dunajom 
+156 4 Vieska 
+157 15 Veľké Blahovo 
+158 19 Holice 
+159 12 Čiližská Radvaň 
+160 9 Blatná na Ostrove 
+161 4 Dobrohošť 
+162 1 Kyselica 
+163 225 Dunajská Streda 
+164 5 Dunajský Klátov 
+165 9 Povoda 
+166 18 Radošovce 
+167 1 Koválovec 
+168 9 Popudinské Močidľany 
+169 3 Trnovec 
+170 5 Prietržka 
+171 8 Vrádište 
+172 6 Kátov 
+173 145 Skalica 
+174 112 Holíč 
+175 26 Kopčany 
+176 6 Radimov 
+177 12 Unín 
+178 11 Petrova Ves 
+179 5 Letničie 
+180 17 Štefanov 
+181 10 Smolinské 
+182 52 Gbely 
+183 13 Čáry 
+184 41 Kúty 
+185 16 Borský Svätý Jur 
+186 24 Brodské 
+187 8 Kuklov 
+188 39 Borský Mikuláš 
+189 11 Lakšárska Nová Ves 
+190 17 Sekule 
+191 21 Moravský Svätý Ján 
+192 2 Bílkove Humence 
+193 11 Šajdíkove Humence 
+194 13 Dojč 
+195 7 Koválov 
+196 51 Šaštín - Stráže 
+197 7 Mokrý Háj 
+198 15 Sobotište 
+199 8 Prašník 
+200 62 Vrbové 
+201 14 Krakovany 
+202 3 Šípkové 
+203 12 Ostrov 
+204 11 Veľké Orvište 
+205 3 Bašovce 
+206 23 Jablonica 
+207 7 Hradište pod Vrátnom 
+208 6 Osuské 
+209 9 Hlboké 
+210 203 Senica 
+211 7 Prietrž 
+212 4 Rovensko 
+213 6 Častkov 
+214 3 Lopašov 
+215 4 Chropov 
+216 4 Oreské 
+217 4 Rybky 
+218 7 Smrdáky 
+219 12 Cerová 
+220 26 Chtelnica 
+221 8 Dobrá Voda 
+222 10 Dolný Lopašov 
+223 5 Kočín - Lančár 
+224 5 Šterusy 
+225 13 Trebatice 
+226 10 Borovce 
+227 6 Rakovice 
+228 283 Piešťany 
+229 4 Dolný Chotár 
+230 9 Horné Otrokovce 
+231 6 Horné Trhovište 
+232 3 Tepličky 
+233 4 Dolné Otrokovce 
+234 7 Dolné Trhovište 
+235 10 Pastuchov 
+236 10 Kľačany 
+237 4 Merašice 
+238 21 Banka 
+239 23 Moravany nad Váhom 
+240 4 Ducové 
+241 5 Hubina 
+242 9 Sasinkovo 
+243 1 Tekolďany 
+244 10 Ratnovce 
+245 6 Podbranč 
+246 3 Bodíky 
+247 5 Mierovo 
+248 4 Rohov 
+249 6 Dubovce 
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449

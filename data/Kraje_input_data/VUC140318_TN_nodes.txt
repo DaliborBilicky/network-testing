@@ -1,0 +1,426 @@
+425
+1 14 Bošáca 
+2 25 Moravské Lieskové 
+3 10 Dolné Srnie 
+4 204 Nové Mesto nad Váhom 
+5 21 Bzince pod Javorinou 
+6 40 Čachtice 
+7 14 Lubina 
+8 93 Stará Turá 
+9 7 Hrachovište 
+10 8 Vaďovce 
+11 2 Višňové 
+12 6 Kostolné 
+13 5 Hrašné 
+14 8 Rudník 
+15 123 Myjava 
+16 7 Poriadie 
+17 7 Stará Myjava 
+18 9 Brestovec 
+19 15 Vrbovce 
+20 5 Jablonka 
+21 4 Polianka 
+22 16 Krajné 
+23 2 Podkylava 
+24 13 Horná Streda 
+25 12 Pobedim 
+26 5 Očkov 
+27 20 Podolie 
+28 12 Častkovce 
+29 6 Potvorice 
+30 6 Brunovce 
+31 4 Košariská 
+32 4 Priepasné 
+33 51 Brezová pod Bradlom 
+34 4 Bukovec 
+35 4 Chvojnica 
+36 13 Považany 
+37 8 Horovce 
+38 9 Dulov 
+39 22 Pruské 
+40 8 Bohunice 
+41 8 Tuchyňa 
+42 3 Krivoklát 
+43 26 Ladce 
+44 25 Košeca 
+45 54 Ilava 
+46 10 Košecké Podhradie 
+47 11 Horná Poruba 
+48 8 Dolná Poruba 
+49 252 Dubnica nad Váhom 
+50 41 Trenčianska Teplá 
+51 42 Trenčianske Teplice 
+52 20 Omšenie 
+53 2 Petrova Lehota 
+54 8 Motešice 
+55 8 Neporadza 
+56 8 Bobot 
+57 4 Horňany 
+58 7 Dežerice 
+59 195 Bánovce nad Bebravou 
+60 6 Prusy 
+61 8 Podlužany 
+62 1 Ľutov 
+63 5 Žitná - Radiša 
+64 15 Uhrovec 
+65 5 Kšinná 
+66 4 Horné Naštice 
+67 5 Timoradza 
+68 5 Krásna Ves 
+69 2 Slatinka nad Bebravou 
+70 5 Slatina nad Bebravou 
+71 1 Trebichava 
+72 1 Šípkov 
+73 1 Čierna Lehota 
+74 3 Miezgovce 
+75 5 Brezolupy 
+76 3 Pravotice 
+77 4 Nedašovce 
+78 1 Vysočany 
+79 14 Rybany 
+80 9 Ostratice 
+81 17 Žabokreky nad Nitrou 
+82 8 Brodzany 
+83 5 Krásno 
+84 6 Nedanovce 
+85 2 Turčianky 
+86 16 Klátova Nová Ves 
+87 5 Ješkova Ves 
+88 41 Bošany 
+89 6 Nadlice 
+90 27 Chynorany 91332 
+91 1 Livina 
+92 2 Livinské Opatovce 
+93 4 Pečeňany 
+94 2 Borčany 
+95 2 Chudá Lehota 
+96 5 Šišov 
+97 1 Libichava 
+98 6 Veľké Hoste 
+99 2 Pochabany 
+100 4 Malé Hoste 
+101 7 Zlatníky 
+102 4 Haláčovce 
+103 4 Otrhánky 
+104 5 Veľké Chlievany 
+105 4 Dvorec 
+106 5 Dolné Naštice 
+107 1 Cimenná 
+108 6 Veľké Držkovce 
+109 5 Ruskovce 
+110 4 Malá Hradná 
+111 7 Veľká Hradná 
+112 9 Dubodiel 
+113 16 Svinná 
+114 8 Trenčianske Mitice 
+115 12 Mníchova Lehota 
+116 22 Soblahov 
+117 31 Trenčianska Turná 
+118 31 Trenčianske Stankovce 
+119 10 Selec 
+120 558 Trenčín 
+121 7 Kostolná - Záriečie 
+122 12 Skalka nad Váhom 
+123 2 Modrovka 
+124 6 Lúka 
+125 5 Modrová 
+126 2 Stará Lehota 
+127 2 Nová Lehota 
+128 7 Hrádok 
+129 7 Hôrka nad Váhom 
+130 6 Nová Ves nad Váhom 
+131 15 Kočovce 
+132 10 Kalnica 
+133 14 Beckov 
+134 3 Krivosúd - Bodovka 
+135 9 Trenčianske Bohuslavice 
+136 1 Haluzice 
+137 3 Štvrtok 
+138 9 Ivanovce 
+139 16 Melčice - Lieskové 
+140 8 Adamovské Kochanovce 
+141 17 Chocholná - Velčice 
+142 22 Drietoma 
+143 7 Veľké Bierovce 
+144 4 Opatovce 
+145 63 Nemšová 
+146 9 Zamarovce 
+147 30 Dolná Súča 
+148 34 Horná Súča 
+149 28 Horné Srnie 
+150 4 Borčice 
+151 15 Bolešov 
+152 5 Kameničany 
+153 8 Slavnica 
+154 4 Sedmerovec 
+155 7 Horná Mariková 
+156 13 Lazy pod Makytou 
+157 9 Lúky 
+158 21 Lysá pod Makytou 
+159 4 Vydrná 
+160 7 Záriečie 
+161 5 Mestečko 
+162 17 Dohňany 
+163 182 Púchov 
+164 12 Dolné Kočkovce 
+165 40 Lednické Rovne 
+166 10 Mikušovce 
+167 7 Červený Kameň 
+168 2 Vršatské Podhradie 
+169 10 Lednica 
+170 7 Kvašov 
+171 9 Dolná Breznica 
+172 5 Horná Breznica 
+173 9 Zubák 
+174 59 Beluša 
+175 9 Streženice 
+176 177 Handlová 
+177 15 Horná Ves 
+178 24 Oslany 
+179 17 Čereňany 
+180 4 Pažiť 
+181 20 Veľké Uherce 
+182 9 Kolačno 
+183 18 Bystričany 
+184 5 Radobica 
+185 5 Mojtín 
+186 1 Podskalie 
+187 20 Pružina 
+188 2 Ďurďové 
+189 1 Čelkova Lehota 
+190 2 Sádočné 
+191 15 Domaniža 
+192 11 Kľačno 
+193 6 Zliechov 
+194 22 Valaská Belá 
+195 1 Omastiná 
+196 10 Hradište 
+197 13 Skačany 
+198 240 Partizánske 
+199 5 Čavoj 
+200 3 Temeš 
+201 3 Nevidzany 
+202 12 Liešťany 
+203 19 Nitrianske Rudno 
+204 2 Dlžín 
+205 4 Seč 
+206 4 Šutovce 
+207 49 Bojnice 
+208 489 Prievidza 
+209 5 Kocurany 
+210 15 Opatovce nad Nitrou 
+211 12 Koš 
+212 17 Sebedražie 
+213 43 Nováky 
+214 18 Diviacka Nová Ves 
+215 18 Diviaky nad Nitricou 
+216 12 Cigeľ 
+217 39 Lehota pod Vtáčnikom 
+218 3 Podhradie 
+219 5 Veľká Čausa 
+220 7 Malá Čausa 
+221 14 Chrenovec - Brusno 
+222 5 Lipník 
+223 6 Jalovec 
+224 12 Ráztočno 
+225 21 Nedožery - Brezany 
+226 16 Lazany 
+227 41 Kanianka 
+228 13 Poruba 
+229 6 Poluvsie 
+230 13 Pravenec 
+231 32 Nitrianske Pravno 
+232 9 Malinová 
+233 12 Tužina 
+234 3 Chvojnica 
+235 7 Rudnianska Lehota 
+236 12 Nitrianske Sučany 
+237 26 Dolné Vestenice 
+238 6 Horné Vestenice 
+239 12 Nitrica 
+240 6 Veľké Kršteňany 
+241 17 Zemianske Kostoľany 
+242 18 Kamenec pod Vtáčnikom 
+243 7 Malé Uherce 
+244 5 Kostolná Ves 
+245 5 Malé Kršteňany 
+246 16 Plevník - Drienové 
+247 11 Jasenica 
+248 7 Stupné 
+249 12 Brvnište 
+250 25 Papradno 
+251 2 Záskalie 
+252 2 Kostolec 
+253 3 Vrchteplá 
+254 5 Bodiná 
+255 14 Prečín 
+256 1 Počarová 
+257 5 Malé Lednice 
+258 8 Dolný Lieskov 
+259 4 Horný Lieskov 
+260 12 Sverepec 
+261 9 Visolaje 
+262 14 Dolná Mariková 
+263 3 Klieština 
+264 7 Nimnica 
+265 412 Považská Bystrica 
+266 22 Udiča 
+267 6 Hatné 
+268 8 Zemianske Podhradie 
+269 11 Nová Bošáca 
+270 9 Veľký Klíž 
+271 1 Dubnička 
+272 5 Slopná 
+273 115 Nová Dubnica 
+274 4 Hrabovka 
+275 12 Trenčianske Jastrabie 
+276 1 Uhrovské Podhradie 
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425

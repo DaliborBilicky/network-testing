@@ -1,0 +1,559 @@
+558
+1 17 Kráľová nad Váhom 
+2 12 Sokolce 
+3 8 Tôň 
+4 5 Holiare 
+5 7 Trávnik 
+6 13 Číčov 
+7 4 Bodza 
+8 5 Klížska Nemá 
+9 5 Brestovec 
+10 33 Vlčany 
+11 33 Neded 
+12 43 Palárikovo 
+13 396 Nové Zámky 
+14 23 Zemné 
+15 14 Andovce 
+16 9 Komoča 
+17 5 Dedina Mládeže 
+18 107 Kolárovo 
+19 51 Nesvady 
+20 24 Zemianska Olča 
+21 15 Okoličná na Ostrove 
+22 10 Veľké Kosihy 
+23 2 Lipové 
+24 2 Bodzianske Lúky 
+25 12 Čalovec 
+26 24 Zlatná na Ostrove 
+27 19 Kameničná 
+28 345 Komárno 
+29 6 Vrbová nad Váhom 
+30 7 Martovce 
+31 20 Imeľ 
+32 12 Bajč 
+33 77 Hurbanovo 
+34 27 Svätý Peter 
+35 18 Dulovce 
+36 14 Chotín 
+37 16 Iža 
+38 37 Marcelová 
+39 37 Bánov 
+40 17 Bešeňov 
+41 51 Dvory nad Žitavou 
+42 6 Branovo 
+43 30 Pribeta 
+44 21 Veľké Ripňany 
+45 6 Malé Ripňany 
+46 2 Lužany 
+47 7 Nitrianska Streda 
+48 15 Horné Obdokovce 
+49 4 Čermany 
+50 5 Hruboňovo 
+51 6 Šurianky 
+52 13 Nové Sady 
+53 3 Malé Zálužie 
+54 2 Biskupová 
+55 22 Zbehy 
+56 11 Čakajovce 
+57 19 Ludanice 
+58 8 Dvorany nad Nitrou 
+59 6 Kamanová 
+60 15 Preseľany 
+61 6 Koniarovce 
+62 22 Výčapy - Opatovce 
+63 10 Jelšovce 
+64 11 Lukáčovce 
+65 17 Alekšince 
+66 21 Rišňovce 
+67 8 Rumanová 
+68 10 Báb 
+69 41 Veľké Zálužie 
+70 21 Lehota 
+71 789 Nitra 
+72 16 Kovarce 
+73 4 Čeľadince 
+74 9 Oponice 
+75 5 Súlovce 
+76 4 Kostoľany pod Tribečom 
+77 7 Ladice 
+78 13 Žirany 
+79 16 Kolíňany 
+80 20 Jelenec 
+81 16 Beladice 
+82 5 Choča 
+83 17 Sľažany 
+84 8 Velčice 
+85 5 Mankovce 
+86 2 Zlatno 
+87 8 Čab 
+88 8 Slepčany 
+89 13 Nová Ves nad Žitavou 
+90 4 Malé Chyndice 
+91 3 Veľké Chyndice 
+92 7 Babindol 
+93 14 Golianovo 
+94 9 Čeľadice 
+95 4 Hosťová 
+96 11 Pohranice 
+97 12 Dolné Obdokovce 
+98 6 Malý Lapáš 
+99 11 Veľký Lapáš 
+100 26 Nitrianske Hrnčiarovce 
+101 4 Žitavce 
+102 5 Melek 
+103 21 Maňa 
+104 11 Trávnica 
+105 11 Podhájska 
+106 8 Radava 
+107 12 Hul 
+108 16 Dolný Ohaj 
+109 102 Šurany 
+110 15 Úľany nad Žitavou 
+111 16 Lipová 
+112 43 Komjatice 
+113 10 Černík 
+114 13 Mojzesovo 
+115 19 Vinodol 
+116 16 Veľký Cetín 
+117 4 Paňa 
+118 9 Kmeťovo 
+119 9 Lúčnica nad Žitavou 
+120 7 Michal nad Žitavou 
+121 90 Vráble 
+122 11 Čechynce 
+123 4 Malý Cetín 
+124 30 Veľký Kýr 
+125 24 Ivanka pri Nitre 
+126 52 Tvrdošovce 
+127 29 Selice 
+128 17 Žihárec 
+129 37 Tešedíkovo 
+130 234 Šaľa 
+131 27 Trnovec nad Váhom 
+132 22 Diakovce 
+133 9 Dlhá nad Váhom 
+134 8 Jatov 
+135 9 Rastislavice 
+136 6 Poľný Kesov 
+137 7 Veľká Dolina 
+138 29 Mojmírovce 
+139 13 Svätoplukovo 
+140 39 Cabaj - Čápor 
+141 43 Močenok 
+142 19 Horná Kráľová 
+143 13 Hájske 
+144 19 Jarok 
+145 28 Lužianky 
+146 5 Šalgovce 
+147 2 Svrbice 
+148 3 Orešany 
+149 3 Štefanovičová 
+150 5 Horné Štitáre 
+151 2 Kapince 
+152 7 Neverice 
+153 8 Chrabrany 
+154 14 Urmince 
+155 12 Klasov 
+156 22 Branč 
+157 3 Belince 
+158 11 Hrušovany 
+159 3 Ľudovítová 
+160 3 Vlkas 
+161 13 Krnča 
+162 25 Solčany 
+163 271 Topoľčany 
+164 10 Nemčice 
+165 18 Jacovce 
+166 14 Tovarníky 
+167 10 Práznovce 
+168 4 Horné Chlebany 
+169 17 Krušovce 
+170 6 Rajčany 
+171 3 Norovce 
+172 3 Solčianky 
+173 20 Bojná 
+174 7 Tesáre 96271 
+175 5 Velušovce 
+176 6 Závada 
+177 20 Prašice 
+178 3 Podhradie 
+179 3 Nemečky 
+180 5 Tvrdomestice 
+181 3 Hajná Nová Ves 
+182 12 Nitrianska Blatnica 
+183 20 Radošina 
+184 3 Vozokany 
+185 3 Lipovník 
+186 3 Blesovce 
+187 7 Veľké Dvorany 
+188 8 Čaka 
+189 14 Kolta 
+190 3 Čechy 
+191 13 Farná 
+192 6 Nýrovce 
+193 15 Hronovce 
+194 5 Málaš 
+195 72 Želiezovce 
+196 9 Ipeľský Sokolec 
+197 7 Lontov 
+198 2 Bielovce 
+199 5 Pastovce 
+200 2 Malé Ludince 
+201 4 Šalov 
+202 13 Pohronský Ruskov 
+203 2 Zalaba 
+204 11 Čata 
+205 15 Bíňa 
+206 4 Sikenička 
+207 2 Pavlová 
+208 15 Kamenín 
+209 10 Salka 
+210 4 Malé Kosihy 
+211 4 Bajtava 
+212 4 Leľa 
+213 14 Kamenica nad Hronom 
+214 7 Chľaba 
+215 4 Malá nad Hronom 
+216 11 Kamenný Most 
+217 109 Štúrovo 
+218 12 Nána 
+219 19 Mužla 
+220 4 Belá 
+221 5 Ľubá 
+222 4 Šarkan 
+223 22 Gbelce 
+224 34 Bátorove Kosihy 
+225 12 Búč 
+226 7 Kravany nad Dunajom 
+227 7 Nová Vieska 
+228 15 Modrany 
+229 5 Šrobárová 
+230 1 Mudroňovo 
+231 3 Virt 
+232 7 Radvaň nad Dunajom 
+233 11 Moča 
+234 21 Strekov 
+235 10 Rúbaň 
+236 17 Dubník 
+237 12 Jásová 
+238 14 Semerovo 
+239 16 Veľké Ludince 
+240 5 Kuraľany 
+241 7 Keť 
+242 6 Bruty 
+243 26 Svodín 
+244 3 Krtovce 
+245 5 Patince 
+246 12 Obid 
+247 10 Skýcov 
+248 28 Topoľčianky 
+249 10 Machulince 
+250 5 Žikava 
+251 7 Lovce 
+252 8 Hosťovce 
+253 5 Martin nad Žitavou 
+254 12 Hostie 
+255 15 Obyce 
+256 9 Jedľové Kostoľany 
+257 1 Bohunice 
+258 20 Pukanec 
+259 2 Jabloňovce 
+260 1 Pečenice 
+261 11 Bátovce 
+262 13 Žemberovce 
+263 4 Drženice 
+264 3 Brhlovce 
+265 3 Hontianske Trsťany 
+266 5 Hokovce 
+267 6 Horné Semerovce 
+268 5 Dolné Semerovce 
+269 7 Vyškovce nad Ipľom 
+270 3 Kubáňovo 
+271 5 Sazdice 
+272 10 Demandice 
+273 7 Sikenica 
+274 9 Plavé Vozokany 
+275 29 Tekovské Lužany 
+276 8 Dedinka 
+277 5 Pozba 
+278 8 Bardoňovo 
+279 10 Dolný Pial 
+280 3 Horný Pial 
+281 17 Šarovce 
+282 6 Kukučínov 
+283 5 Zbrojníky 
+284 6 Hontianska Vrbica 
+285 9 Jur nad Hronom 
+286 8 Santovka 
+287 2 Domadice 
+288 8 Krškany 
+289 10 Mýtne Ludany 
+290 2 Starý Hrádok 
+291 346 Levice 
+292 5 Horná Seč 
+293 4 Dolná Seč 
+294 2 Vyšné nad Hronom 
+295 2 Žemliare 
+296 2 Turá 
+297 3 Tekovský Hrádok 
+298 5 Ondrejovce 
+299 3 Bajka 
+300 10 Lok 
+301 20 Kalná nad Hronom 
+302 12 Veľký Ďur 
+303 6 Beša 
+304 5 Tehla 
+305 1 Jesenské 
+306 2 Iňa 
+307 2 Lula 
+308 4 Telince 
+309 6 Čifáre 
+310 3 Tajná 
+311 14 Starý Tekov 
+312 8 Nový Tekov 
+313 15 Hronské Kľačany 
+314 7 Veľké Kozmálovce 
+315 20 Kozárovce 
+316 4 Malé Kozmálovce 
+317 7 Nemčiňany 
+318 14 Rybník 
+319 38 Tlmače 
+320 10 Čajkov 
+321 7 Hronské Kosihy 
+322 8 Podlužany 
+323 15 Nová Dedina 
+324 4 Devičany 
+325 2 Uhliská 
+326 11 Tekovské Nemce 
+327 10 Volkovce 
+328 11 Čierne Kľačany 
+329 3 Malé Vozokany 
+330 6 Nevidzany 
+331 4 Červený Hrádok 
+332 5 Veľké Vozokany 
+333 17 Tesárske Mlyňany 
+334 5 Vieska nad Žitavou 
+335 76 Šahy 
+336 3 Ipeľské Úľany 
+337 16 Plášťovce 
+338 6 Horné Turovce 
+339 8 Veľké Turovce 
+340 3 Slatina 
+341 3 Hrkovce 
+342 19 Veľké Lovce 
+343 2 Ardanovce 
+344 5 Čaradice 
+345 6 Tupá 
+346 3 Bory 
+347 14 Lefantovce 
+348 14 Podhorany 
+349 142 Zlaté Moravce 
+350 7 Kuzmice 
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
