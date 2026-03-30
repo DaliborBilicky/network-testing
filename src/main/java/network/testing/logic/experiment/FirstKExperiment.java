@@ -58,12 +58,6 @@ public class FirstKExperiment extends Experiment<FirstKResult> {
 		}
 	}
 
-	private boolean isSolutionChanged(int[] originalMedians, TrialResult probe) {
-		if (probe == null)
-			return false;
-		return !Arrays.equals(originalMedians, probe.problem().getSelectedMedians());
-	}
-
 	private FirstKResult wrapFinalResult() {
 		SolutionSnapshot snap0 = this.createSnapshot(0.0, this.baseTrial);
 		SolutionSnapshot snapK = null;

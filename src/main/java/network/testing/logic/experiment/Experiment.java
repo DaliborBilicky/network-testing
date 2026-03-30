@@ -1,5 +1,7 @@
 package network.testing.logic.experiment;
 
+import java.util.Arrays;
+
 import network.testing.core.model.DistanceMatrix;
 import network.testing.core.model.Network;
 import network.testing.core.model.result.DeclineStats;
@@ -90,5 +92,15 @@ public abstract class Experiment<T> {
 				total += (double) weight * distMatrix.getDistance(i, assignments[i]);
 		}
 		return total;
+	}
+
+	protected boolean isSolutionChanged(int[] oldMedians, TrialResult newTrial) {
+		if (newTrial == null)
+			return false;
+
+		if (oldMedians == null)
+			return true;
+
+		return !Arrays.equals(oldMedians, newTrial.problem().getSelectedMedians());
 	}
 }

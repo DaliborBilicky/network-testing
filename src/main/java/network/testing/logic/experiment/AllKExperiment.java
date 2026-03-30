@@ -28,12 +28,9 @@ public class AllKExperiment extends Experiment<AllKResult> {
 		while (!MetricsUtils.isClose(k, kLim, this.precision)) {
 			TrialResult trial = this.solveForK(k);
 
-			if (trial != null) {
-				int[] currentMedians = trial.problem().getSelectedMedians();
-				if (lastMedians == null || !Arrays.equals(lastMedians, currentMedians)) {
-					snapshots.add(this.createSnapshot(k, trial));
-					lastMedians = currentMedians;
-				}
+			if (this.isSolutionChanged(lastMedians, trial)) {
+				snapshots.add(this.createSnapshot(k, trial));
+				lastMedians = trial.problem().getSelectedMedians();
 			}
 
 			step /= 2.0;
