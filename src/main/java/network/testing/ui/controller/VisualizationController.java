@@ -11,7 +11,6 @@ import network.testing.core.model.Network;
 import network.testing.core.model.result.AllKResult;
 import network.testing.core.model.result.FirstKResult;
 import network.testing.core.model.result.SolutionSnapshot;
-import network.testing.io.export.ImageExporter;
 import network.testing.io.file.NetworkLoader;
 import network.testing.io.file.ResultIO;
 import network.testing.logic.layout.NetworkLayout;
@@ -89,20 +88,6 @@ public class VisualizationController {
 
 		double[] declines = this.calculateDeclines(modified);
 		this.canvas.setData(this.network, oldIds, newIds, declines, this.positions);
-	}
-
-	public void saveImage(String path, int selectedIndex) throws IOException {
-		if (this.network == null || this.currentSnapshots.isEmpty())
-			return;
-
-		SolutionSnapshot current = this.currentSnapshots.get(selectedIndex);
-		SolutionSnapshot previous = (selectedIndex > 0) ? this.currentSnapshots.get(selectedIndex - 1) : null;
-
-		int[] oldIds = (previous != null) ? previous.medians().ids() : current.medians().ids();
-		int[] newIds = current.medians().ids();
-		double[] declines = this.calculateDeclines(current);
-
-		ImageExporter.exportToPng(this.network, this.positions, oldIds, newIds, declines, path);
 	}
 
 	private double[] calculateDeclines(SolutionSnapshot snapshot) {

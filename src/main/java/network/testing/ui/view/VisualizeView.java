@@ -121,12 +121,6 @@ public final class VisualizeView extends JPanel {
 		btnLoad.addActionListener(e -> this.handleLoadAction());
 		panel.add(btnLoad, gbc);
 
-		gbc.gridy++;
-		gbc.insets = new Insets(0, 0, 5, 0);
-		JButton btnSave = new JButton("SAVE IMAGE");
-		btnSave.addActionListener(e -> this.handleSaveImageAction());
-		panel.add(btnSave, gbc);
-
 		gbc.weighty = 1.0;
 		gbc.gridy++;
 		panel.add(new JLabel(""), gbc);
@@ -191,32 +185,5 @@ public final class VisualizeView extends JPanel {
 		int idx = this.kCombo.getSelectedIndex();
 		if (idx >= 0)
 			this.controller.updateView(idx);
-	}
-
-	private void handleSaveImageAction() {
-		if (this.kCombo.getSelectedIndex() == -1) {
-			JOptionPane.showMessageDialog(this, "No data loaded to save.", "Warning", JOptionPane.WARNING_MESSAGE);
-			return;
-		}
-
-		FileDialog fd = new FileDialog((Frame) null, "Save Visualization as PNG", FileDialog.SAVE);
-		fd.setFile("network_view.png");
-		fd.setVisible(true);
-
-		if (fd.getFile() != null) {
-			String savePath = fd.getDirectory() + fd.getFile();
-			if (!savePath.toLowerCase().endsWith(".png"))
-				savePath += ".png";
-
-			try {
-				this.controller.saveImage(savePath, this.kCombo.getSelectedIndex());
-				JOptionPane.showMessageDialog(this, "Image saved successfully!", "Success",
-						JOptionPane.INFORMATION_MESSAGE);
-			} catch (Exception ex) {
-				JOptionPane.showMessageDialog(this, "Error saving image: " + ex.getMessage(), "Error",
-						JOptionPane.ERROR_MESSAGE);
-				ex.printStackTrace();
-			}
-		}
 	}
 }
