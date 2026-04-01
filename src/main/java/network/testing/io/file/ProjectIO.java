@@ -9,11 +9,23 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
+import network.testing.core.model.project.ProjectSettings;
 import network.testing.core.model.result.AllKResult;
 import network.testing.core.model.result.FirstKResult;
 
-public class ResultIO {
+public class ProjectIO {
 	private static final ObjectMapper MAPPER = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
+
+	public static void saveProject(File file, ProjectSettings settings) throws IOException {
+		if (file.getParentFile() != null) {
+			file.getParentFile().mkdirs();
+		}
+		MAPPER.writeValue(file, settings);
+	}
+
+	public static ProjectSettings loadProject(File file) throws IOException {
+		return MAPPER.readValue(file, ProjectSettings.class);
+	}
 
 	public static void saveFirstK(File file, int p, FirstKResult result) throws IOException {
 		saveToMap(file, String.valueOf(p), result, new TypeReference<Map<String, FirstKResult>>() {
@@ -35,6 +47,14 @@ public class ResultIO {
 		Map<String, AllKResult> data = MAPPER.readValue(file, new TypeReference<>() {
 		});
 		return data.get(String.valueOf(p));
+	}
+
+	public static String[] getAvailablePValues(File file) throws IOException {
+		if (!file.exists())
+			return new String[0];
+		Map<String, Object> data = MAPPER.readValue(file, new TypeReference<>() {
+		});
+		return data.keySet().toArray(new String[0]);
 	}
 
 	private static <T> void saveToMap(File file, String key, T result, TypeReference<Map<String, T>> typeRef)
