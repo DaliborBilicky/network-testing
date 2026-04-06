@@ -9,17 +9,14 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
-import network.testing.core.model.project.ProjectSettings;
-import network.testing.core.model.result.AllKResult;
-import network.testing.core.model.result.FirstKResult;
+import network.testing.domain.model.project.ProjectSettings;
+import network.testing.domain.model.result.AllKResult;
+import network.testing.domain.model.result.FirstKResult;
 
 public class ProjectIO {
 	private static final ObjectMapper MAPPER = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
 
 	public static void saveProject(File file, ProjectSettings settings) throws IOException {
-		if (file.getParentFile() != null) {
-			file.getParentFile().mkdirs();
-		}
 		MAPPER.writeValue(file, settings);
 	}
 
@@ -49,24 +46,12 @@ public class ProjectIO {
 		return data.get(String.valueOf(p));
 	}
 
-	public static String[] getAvailablePValues(File file) throws IOException {
-		if (!file.exists())
-			return new String[0];
-		Map<String, Object> data = MAPPER.readValue(file, new TypeReference<>() {
-		});
-		return data.keySet().toArray(new String[0]);
-	}
-
 	private static <T> void saveToMap(File file, String key, T result, TypeReference<Map<String, T>> typeRef)
 			throws IOException {
 		Map<String, T> allResults = new LinkedHashMap<>();
 
-		if (file.exists() && file.length() > 0) {
+		if (file.exists() && file.length() > 0)
 			allResults = MAPPER.readValue(file, typeRef);
-		} else {
-			if (file.getParentFile() != null)
-				file.getParentFile().mkdirs();
-		}
 
 		allResults.put(key, result);
 		MAPPER.writeValue(file, allResults);

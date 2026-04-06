@@ -5,8 +5,8 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-import network.testing.core.model.Network;
-import network.testing.core.model.Topology;
+import network.testing.domain.model.Network;
+import network.testing.domain.model.Topology;
 
 public class NetworkLoader {
 	private static record EdgeData(int m, int[] u, int[] v, double[] costs) {
@@ -55,6 +55,8 @@ public class NetworkLoader {
 				int id = Integer.parseInt(parts[0]) - 1;
 				if (id >= 0 && id < n && parts.length >= 2)
 					weights[id] = Integer.parseInt(parts[1]);
+				else
+					throw new IOException("Vertex ID " + (id + 1) + " is out of bounds (1-" + n + ")");
 			}
 			return weights;
 		}
@@ -83,8 +85,12 @@ public class NetworkLoader {
 
 	private static int readHeader(BufferedReader reader, String context) throws IOException {
 		String header = reader.readLine();
-		if (header == null)
-			throw new IOException(context + " header missing.");
-		return Integer.parseInt(header.trim());
+		if (header == null || header.trim().isEmpty())
+			throw new IOException(context + " file is empty or missing header.");
+		try {
+			return Integer.parseInt(header.trim());
+		} catch (NumberFormatException e) {
+			throw new IOException("Invalid " + context + " header: expected a number, got '" + header + "'");
+		}
 	}
 }

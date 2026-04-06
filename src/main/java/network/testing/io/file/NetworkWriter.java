@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Locale;
 
-import network.testing.core.model.Network;
+import network.testing.domain.model.Topology;
 
 public class NetworkWriter {
 	public static void writeVertices(String path, int[] weights) throws IOException {
@@ -17,15 +17,12 @@ public class NetworkWriter {
 		}
 	}
 
-	public static void writeEdges(String path, Network network) throws IOException {
-		int m = network.getTopology().getNumOfEdges();
+	public static void writeEdges(String path, Topology topology) throws IOException {
+		int numOfEdges = topology.getNumOfEdges();
 		try (PrintWriter writer = new PrintWriter(new BufferedWriter(new FileWriter(path)))) {
-			writer.println(m);
-			for (int i = 0; i < m; i++) {
-				writer.printf(Locale.US, "%d %d %d%n",
-						network.getTopology().getEdgeU(i) + 1,
-						network.getTopology().getEdgeV(i) + 1,
-						(int) network.getEdgeCost(i));
+			writer.println(numOfEdges);
+			for (int i = 0; i < numOfEdges; i++) {
+				writer.printf(Locale.US, "%d %d %d%n", topology.getEdgeU(i) + 1, topology.getEdgeV(i) + 1, 1);
 			}
 		}
 	}
