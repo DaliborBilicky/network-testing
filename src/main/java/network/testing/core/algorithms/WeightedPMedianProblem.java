@@ -8,7 +8,7 @@ import com.google.ortools.linearsolver.MPObjective;
 import com.google.ortools.linearsolver.MPSolver;
 import com.google.ortools.linearsolver.MPVariable;
 
-import network.testing.domain.model.DistanceMatrix;
+import network.testing.domain.model.network.DistanceMatrix;
 
 public class WeightedPMedianProblem {
 	static {

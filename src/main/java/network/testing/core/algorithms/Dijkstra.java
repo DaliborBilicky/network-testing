@@ -5,9 +5,9 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 import network.testing.domain.ds.ReadOnlyForwardStar;
-import network.testing.domain.model.DistanceMatrix;
-import network.testing.domain.model.Network;
-import network.testing.domain.model.Topology;
+import network.testing.domain.model.network.DistanceMatrix;
+import network.testing.domain.model.network.Network;
+import network.testing.domain.model.network.Topology;
 
 public class Dijkstra {
 	private record Vertex(int id, double dist) {

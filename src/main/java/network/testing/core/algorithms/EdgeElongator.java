@@ -2,9 +2,9 @@ package network.testing.core.algorithms;
 
 import java.util.Arrays;
 
-import network.testing.domain.model.DistanceMatrix;
-import network.testing.domain.model.Network;
-import network.testing.domain.model.Topology;
+import network.testing.domain.model.network.DistanceMatrix;
+import network.testing.domain.model.network.Network;
+import network.testing.domain.model.network.Topology;
 
 public class EdgeElongator {
 	private final Network network;
