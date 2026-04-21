@@ -1,4 +1,4 @@
-package network.testing.domain.model;
+package network.testing.domain.model.network;
 
 import java.util.Arrays;
 
