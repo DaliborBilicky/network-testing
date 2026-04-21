@@ -43,4 +43,18 @@ public class PositionUtils {
 		}
 		return pos;
 	}
+
+	public static Point2D getNetworkCenter(Point2D[] positions) {
+		if (positions == null || positions.length == 0)
+			return new Point2D.Double(0, 0);
+		double minX = Double.MAX_VALUE, maxX = -Double.MAX_VALUE;
+		double minY = Double.MAX_VALUE, maxY = -Double.MAX_VALUE;
+		for (Point2D p : positions) {
+			minX = Math.min(minX, p.getX());
+			maxX = Math.max(maxX, p.getX());
+			minY = Math.min(minY, p.getY());
+			maxY = Math.max(maxY, p.getY());
+		}
+		return new Point2D.Double((minX + maxX) / 2, (minY + maxY) / 2);
+	}
 }
