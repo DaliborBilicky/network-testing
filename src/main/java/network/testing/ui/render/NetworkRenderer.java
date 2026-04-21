@@ -7,9 +7,10 @@ import java.awt.Graphics2D;
 import java.awt.RenderingHints;
 import java.awt.geom.Point2D;
 
-import network.testing.core.model.Network;
-import network.testing.core.model.Topology;
-import network.testing.logic.math.MetricsUtils;
+import network.testing.core.utils.ArrayUtils;
+import network.testing.core.utils.StatisticsUtils;
+import network.testing.domain.model.network.Network;
+import network.testing.domain.model.network.Topology;
 
 public class NetworkRenderer {
 	private static final Color COLOR_OLD = Color.RED;
@@ -17,14 +18,12 @@ public class NetworkRenderer {
 	private static final Color COLOR_BOTH = Color.ORANGE;
 	private static final int RING_SIZE = 35;
 
-	public static void render(Graphics2D g2, Network network, Point2D[] positions,
-			int[] originalMedians, int[] modifiedMedians, double[] declines, double zoom) {
-
+	public static void render(Graphics2D g2, RenderData data, double zoom) {
 		setupGraphics(g2);
 
-		renderEdges(g2, network, positions, declines, zoom);
+		renderEdges(g2, data.network(), data.positions(), data.declines(), zoom);
 
-		renderVertices(g2, network, positions, originalMedians, modifiedMedians, zoom);
+		renderVertices(g2, data.network(), data.positions(), data.originalMedians(), data.modifiedMedians(), zoom);
 	}
 
 	private static void setupGraphics(Graphics2D g2) {
@@ -32,10 +31,10 @@ public class NetworkRenderer {
 		g2.setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
 	}
 
-	private static void renderEdges(Graphics2D g2, Network network, Point2D[] positions,
-			double[] declines, double zoom) {
+	private static void renderEdges(
+			Graphics2D g2, Network network, Point2D[] positions, double[] declines, double zoom) {
 		Topology topo = network.getTopology();
-		double maxDecline = MetricsUtils.max(declines);
+		double maxDecline = StatisticsUtils.max(declines);
 
 		for (int i = 0; i < topo.getNumOfEdges(); i++) {
 			Point2D p1 = positions[topo.getEdgeU(i)];
@@ -46,8 +45,8 @@ public class NetworkRenderer {
 		}
 	}
 
-	private static void drawSingleEdge(Graphics2D g2, Point2D p1, Point2D p2,
-			double decline, double maxDecline, double zoom) {
+	private static void drawSingleEdge(
+			Graphics2D g2, Point2D p1, Point2D p2, double decline, double maxDecline, double zoom) {
 		double safeMax = Math.max(maxDecline, 0.0001);
 		float intensity = (float) Math.sqrt(decline / safeMax);
 
@@ -73,7 +72,7 @@ public class NetworkRenderer {
 	private static void renderVertices(Graphics2D g2, Network network, Point2D[] positions,
 			int[] originalMedians, int[] modifiedMedians, double zoom) {
 		int n = network.getTopology().getNumOfVerts();
-		int maxWeight = MetricsUtils.max(network.copyVertexWeights());
+		int maxWeight = StatisticsUtils.max(network.copyVertexWeights());
 
 		for (int i = 0; i < n; i++) {
 			Point2D p = positions[i];
@@ -90,8 +89,8 @@ public class NetworkRenderer {
 
 	private static void renderMedianRings(Graphics2D g2, int id, Point2D p,
 			int[] originalMedians, int[] modifiedMedians) {
-		boolean inOld = MetricsUtils.contains(originalMedians, id);
-		boolean inNew = MetricsUtils.contains(modifiedMedians, id);
+		boolean inOld = ArrayUtils.contains(originalMedians, id);
+		boolean inNew = ArrayUtils.contains(modifiedMedians, id);
 
 		if (inOld || inNew) {
 			g2.setStroke(new BasicStroke(4.0f));
