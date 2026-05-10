@@ -7,6 +7,7 @@ import java.nio.file.Path;
 
 import network.testing.core.utils.PositionUtils;
 import network.testing.domain.model.network.Network;
+import network.testing.domain.model.network.Topology;
 import network.testing.persistence.database.DatabaseManager;
 import network.testing.persistence.database.ResultRepository;
 import network.testing.persistence.database.SessionRepository;
@@ -37,7 +38,7 @@ public class ProjectManager {
 		this.sessionRepo = new SessionRepository(this.dbManager.getConnection());
 
 		Network network = NetworkLoader.load(this.storage.getVerticesPath(), this.storage.getEdgesPath());
-		Point2D[] positions = this.resolvePositions(network.getTopology().getNumOfVerts());
+		Point2D[] positions = this.resolvePositions(network.getTopology());
 		this.context = ProjectContext.create(network, positions);
 	}
 
@@ -57,12 +58,12 @@ public class ProjectManager {
 		this.context = null;
 	}
 
-	private Point2D[] resolvePositions(int n) throws IOException {
+	private Point2D[] resolvePositions(Topology topology) throws IOException {
 		Path coords = this.storage.getCoordsPath();
-		if (coords != null && Files.exists(coords)) {
-			return PositionUtils.fromCoordinates(NetworkLoader.loadCoordinates(coords, n));
-		}
-		return PositionUtils.generateGrid(n);
+		if (coords != null && Files.exists(coords))
+			return PositionUtils.projectGeoCoordinates(NetworkLoader.loadCoordinates(coords, topology.getNumOfVerts()));
+
+		return PositionUtils.computeForceLayout(topology);
 	}
 
 	public ProjectContext getContext() {

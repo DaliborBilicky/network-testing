@@ -52,6 +52,16 @@ public class MainFrame extends JFrame implements NotificationListener, ProjectSt
 		this.setupListeners();
 	}
 
+	@Override
+	public void onNotify(String message, NotificationType type) {
+		new Toast(message, type, this);
+	}
+
+	@Override
+	public void onProjectReady(String projectName) {
+		this.setTitle(projectName + " - Network Robustness Analyzer");
+	}
+
 	private void initComponents() {
 		this.setTitle("Network Robustness Analyzer");
 		this.setJMenuBar(this.createMenuBar());
@@ -107,21 +117,29 @@ public class MainFrame extends JFrame implements NotificationListener, ProjectSt
 	private JMenuBar createMenuBar() {
 		JMenuBar menuBar = new JMenuBar();
 		JMenu fileMenu = new JMenu("File");
+		JMenu toolsMenu = new JMenu("Tools");
 
 		JMenuItem newItem = new JMenuItem("New Project");
 		JMenuItem openItem = new JMenuItem("Open Project");
 		JMenuItem exitItem = new JMenuItem("Exit");
+		JMenuItem generatorItem = new JMenuItem("Network Generator");
 
 		newItem.addActionListener(e -> this.handleNewProject());
 		openItem.addActionListener(e -> this.handleOpenProject());
 		exitItem.addActionListener(e -> this.handleExit());
+		generatorItem.addActionListener(e -> {
+			NetworkGeneratorFrame wizard = new NetworkGeneratorFrame(this.coordinator);
+			wizard.setVisible(true);
+		});
 
 		fileMenu.add(newItem);
 		fileMenu.add(openItem);
 		fileMenu.addSeparator();
 		fileMenu.add(exitItem);
+		toolsMenu.add(generatorItem);
 
 		menuBar.add(fileMenu);
+		menuBar.add(toolsMenu);
 		return menuBar;
 	}
 
@@ -179,15 +197,5 @@ public class MainFrame extends JFrame implements NotificationListener, ProjectSt
 		this.setExtendedState(JFrame.MAXIMIZED_BOTH);
 		this.setMinimumSize(new Dimension(1024, 768));
 		this.setLocationRelativeTo(null);
-	}
-
-	@Override
-	public void onNotify(String message, NotificationType type) {
-		new Toast(message, type, this);
-	}
-
-	@Override
-	public void onProjectReady(String projectName) {
-		this.setTitle(projectName + " - Network Robustness Analyzer");
 	}
 }
