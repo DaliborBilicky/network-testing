@@ -11,12 +11,19 @@ public class ProjectStorageManager {
 		this.activeWorkspace = ProjectFileService.prepareWorkspace();
 	}
 
+	private void ensureWorkspace() {
+		if (this.activeWorkspace == null)
+			this.activeWorkspace = ProjectFileService.prepareWorkspace();
+	}
+
 	public void create(Path zipPath, Path srcVert, Path srcEdge, Path srcCoord) throws IOException {
+		this.ensureWorkspace();
 		this.originalZipPath = zipPath;
 		ProjectFileService.createProject(srcVert, srcEdge, srcCoord, this.activeWorkspace);
 	}
 
 	public void open(Path zipPath) throws IOException {
+		this.ensureWorkspace();
 		this.originalZipPath = zipPath;
 		ProjectFileService.extractProject(this.originalZipPath, this.activeWorkspace);
 	}
@@ -57,5 +64,4 @@ public class ProjectStorageManager {
 	private Path resolve(String fileName) {
 		return this.activeWorkspace != null ? this.activeWorkspace.resolve(fileName) : null;
 	}
-
 }

@@ -1,6 +1,8 @@
 package network.testing.app;
 
 import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -110,15 +112,18 @@ public class AppCoordinator {
 		try {
 			if (this.projectManager.isLoaded()) {
 				this.projectManager.save();
-				this.eventHub.publishNotification("Project archived successfully.", NotificationType.SUCCESS);
-
 				this.projectManager.close();
+
+				this.activeExperimentId = -1;
+				this.eventHub.publishExperimentList(new ArrayList<>());
+				this.eventHub.publishDataUpdate(new LinkedHashMap<>());
+				this.eventHub.publishSelection(-1, null, null);
+				this.eventHub.publishNotification("Project closed.", NotificationType.SUCCESS);
 			}
 		} catch (Exception e) {
-			System.err.println("Critical error during auto-save on close: " + e.getMessage());
+			System.err.println("Critical error during close: " + e.getMessage());
 			e.printStackTrace();
 		}
-
 	}
 
 	public void deleteExperiment(long id) {

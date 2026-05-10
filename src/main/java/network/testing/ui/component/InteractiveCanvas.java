@@ -134,7 +134,7 @@ public class InteractiveCanvas extends JPanel implements SelectionListener {
 
 	private void drawPlaceholder(Graphics g) {
 		g.setColor(Color.GRAY);
-		String msg = "No project data loaded. Select a snapshot from the timeline.";
+		String msg = "No data.";
 
 		FontMetrics fm = g.getFontMetrics();
 		int x = (this.getWidth() - fm.stringWidth(msg)) / 2;
